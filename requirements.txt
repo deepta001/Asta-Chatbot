@@ -1,0 +1,17 @@
+# Packages imported by the scripts currently in this repository.
+#
+# Versions are NOT pinned yet: none of these packages were installed in the
+# local Python environment when this file was written, so the exact versions
+# used could not be read. Pinning is planned for the training phase.
+
+# Chat interface (chat_ui.py)
+gradio
+requests
+
+# Model loading and adapter merging (qwen.py)
+torch
+transformers
+peft
+
+# Old flan-t5 training script (data/train.py)
+datasets

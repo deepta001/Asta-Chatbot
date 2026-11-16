@@ -1,0 +1,28 @@
+# Python caches and build files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Model files: these are several GB, so they live outside Git
+trained_model/
+merged_qwen/
+*.gguf
+*.zip
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Secrets (e.g. Hugging Face token)
+.env
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
