@@ -1,6 +1,61 @@
 [
   {
     "topic": "stars_stellar_evolution",
+    "question": "What is the Chandrasekhar limit?",
+    "answer": "It is the maximum mass a white dwarf can have before collapsing further."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is a neutron star?",
+    "answer": "A neutron star is an extremely dense remnant composed mostly of neutrons."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is a white dwarf?",
+    "answer": "A white dwarf is a dense stellar remnant left after a low-mass star dies."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is stellar evolution?",
+    "answer": "Stellar evolution is the process of changes a star undergoes during its lifetime."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is a pulsar?",
+    "answer": "A pulsar is a rapidly rotating neutron star emitting beams of radiation."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is a blue giant star?",
+    "answer": "A blue giant is a very hot luminous star with high mass."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is stellar parallax?",
+    "answer": "Stellar parallax is the apparent shift of a star's position due to Earth's orbit."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is gravitational collapse?",
+    "answer": "Gravitational collapse occurs when gravity causes matter to contract inward."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is a star cluster?",
+    "answer": "A star cluster is a group of stars held together by gravity."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is an open cluster?",
+    "answer": "An open cluster is a loosely bound group of relatively young stars."
+  },
+  {
+    "topic": "stars_stellar_evolution",
+    "question": "What is a planetary nebula?",
+    "answer": "A planetary nebula is an expanding shell of gas expelled by a dying low-mass star."
+  },
+  {
+    "topic": "stars_stellar_evolution",
     "question": "What is a star?",
     "answer": "A star is a massive glowing sphere of hot gas powered by nuclear fusion."
   },
@@ -21,18 +76,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is nuclear fusion?",
-    "answer": "Nuclear fusion is the combining of light atomic nuclei to release energy."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Where are stars born?",
     "answer": "Stars are born in giant clouds of gas and dust called nebulae."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a nebula?",
-    "answer": "A nebula is a large cloud of gas and dust in space."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -91,16 +136,6 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is absolute magnitude?",
-    "answer": "Absolute magnitude measures a star's true brightness at a standard distance."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is apparent magnitude?",
-    "answer": "Apparent magnitude describes how bright a star appears from Earth."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "What is the Hertzsprung–Russell diagram?",
     "answer": "It is a graph comparing stars by luminosity and temperature."
   },
@@ -121,18 +156,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is a white dwarf?",
-    "answer": "A white dwarf is a dense stellar remnant left after a low-mass star dies."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Why are white dwarfs dense?",
     "answer": "They contain stellar mass compressed into an Earth-sized object."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a supernova?",
-    "answer": "A supernova is a powerful explosion marking the death of certain stars."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -141,23 +166,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is a neutron star?",
-    "answer": "A neutron star is an extremely dense remnant composed mostly of neutrons."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a black hole?",
-    "answer": "A black hole is a region where gravity is strong enough that light cannot escape."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "How are black holes formed from stars?",
     "answer": "They can form when massive stars collapse after supernova explosions."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is stellar nucleosynthesis?",
-    "answer": "It is the creation of new elements inside stars through fusion."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -186,11 +196,6 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is a binary star system?",
-    "answer": "A binary star system contains two stars orbiting each other."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "What is a variable star?",
     "answer": "A variable star changes in brightness over time."
   },
@@ -198,11 +203,6 @@
     "topic": "stars_stellar_evolution",
     "question": "Why do some stars pulsate?",
     "answer": "Changes in pressure and temperature inside the star cause expansion and contraction."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a pulsar?",
-    "answer": "A pulsar is a rapidly rotating neutron star emitting beams of radiation."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -221,11 +221,6 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What type of star is the Sun?",
-    "answer": "The Sun is a G-type main sequence star."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "What is stellar gravity?",
     "answer": "Stellar gravity is the gravitational force holding a star together."
   },
@@ -236,18 +231,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is a brown dwarf?",
-    "answer": "A brown dwarf is an object too small to sustain normal hydrogen fusion."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Why are brown dwarfs called failed stars?",
     "answer": "They lack enough mass to maintain stable hydrogen fusion."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is the Chandrasekhar limit?",
-    "answer": "It is the maximum mass a white dwarf can have before collapsing further."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -371,23 +356,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is stellar parallax?",
-    "answer": "Stellar parallax is the apparent shift of a star's position due to Earth's orbit."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Why is stellar parallax important?",
     "answer": "It helps astronomers measure distances to nearby stars."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a light-year?",
-    "answer": "A light-year is the distance light travels in one year."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a parsec?",
-    "answer": "A parsec is a distance unit equal to about 3.26 light-years."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -441,11 +411,6 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is a planetary nebula?",
-    "answer": "A planetary nebula is an expanding shell of gas expelled by a dying low-mass star."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Do planetary nebulae form planets?",
     "answer": "No, the name is historical and unrelated to planets."
   },
@@ -473,11 +438,6 @@
     "topic": "stars_stellar_evolution",
     "question": "What supports neutron stars against gravity?",
     "answer": "Neutron degeneracy pressure helps support neutron stars."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a Type Ia supernova?",
-    "answer": "It is a supernova caused by a white dwarf gaining too much mass."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -526,18 +486,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is stellar evolution?",
-    "answer": "Stellar evolution is the process of changes a star undergoes during its lifetime."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "What is the zero-age main sequence?",
     "answer": "It is the stage when a star first begins stable hydrogen fusion."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is the interstellar medium?",
-    "answer": "The interstellar medium is the gas and dust found between stars."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -553,21 +503,6 @@
     "topic": "stars_stellar_evolution",
     "question": "Why are molecular clouds important in astronomy?",
     "answer": "They are the primary birthplaces of stars."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a star cluster?",
-    "answer": "A star cluster is a group of stars held together by gravity."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is an open cluster?",
-    "answer": "An open cluster is a loosely bound group of relatively young stars."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a globular cluster?",
-    "answer": "A globular cluster is a dense spherical collection of old stars."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -746,18 +681,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is the Tolman–Oppenheimer–Volkoff limit?",
-    "answer": "It is the maximum mass a neutron star can have before collapsing further."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Why do astronomers study stellar remnants?",
     "answer": "They reveal information about stellar death and extreme physics."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is the habitable zone around a star?",
-    "answer": "It is the region where temperatures may allow liquid water on planets."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -788,11 +713,6 @@
     "topic": "stars_stellar_evolution",
     "question": "What is a yellow dwarf star?",
     "answer": "A yellow dwarf is a medium-sized main sequence star like the Sun."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is a blue giant star?",
-    "answer": "A blue giant is a very hot luminous star with high mass."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -876,18 +796,8 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What is a magnetar?",
-    "answer": "A magnetar is a neutron star with an extremely powerful magnetic field."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Why are magnetars unusual?",
     "answer": "Their magnetic fields are among the strongest known in the universe."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "What is gravitational collapse?",
-    "answer": "Gravitational collapse occurs when gravity causes matter to contract inward."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -1017,7 +927,7 @@
   {
     "topic": "stars_stellar_evolution",
     "question": "What would happen if the Sun suddenly stopped fusing hydrogen?",
-    "answer": "Its core would collapse and the Sun would begin major changes."
+    "answer": "Not much at first. Energy already inside the Sun takes tens of thousands of years or more to reach the surface, so it would keep shining for a long time while its core slowly contracted and heated up."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -1043,11 +953,6 @@
     "topic": "stars_stellar_evolution",
     "question": "What would the night sky look like without stars?",
     "answer": "The sky would appear far darker and mostly empty."
-  },
-  {
-    "topic": "stars_stellar_evolution",
-    "question": "How do scientists know what stars are made of?",
-    "answer": "They study the patterns in starlight spectra."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -1331,11 +1236,6 @@
   },
   {
     "topic": "stars_stellar_evolution",
-    "question": "What would happen if Earth orbited a pulsar?",
-    "answer": "Strong radiation would make conditions extremely hostile."
-  },
-  {
-    "topic": "stars_stellar_evolution",
     "question": "Why do astronomers call stars cosmic furnaces?",
     "answer": "Stars generate heat and create new elements through fusion."
   },
@@ -1492,12 +1392,12 @@
   {
     "topic": "stars_stellar_evolution",
     "question": "How does the Sun compare to most stars in the galaxy?",
-    "answer": "The Sun is an average-sized main sequence star."
+    "answer": "The Sun is an ordinary main-sequence star, but it is bigger and brighter than most. About three-quarters of the stars in the Milky Way are smaller, dimmer red dwarfs."
   },
   {
     "topic": "stars_stellar_evolution",
     "question": "What would happen if the Sun became a neutron star instead of a white dwarf?",
-    "answer": "Its gravity and radiation would become far more extreme."
+    "answer": "The Sun is not massive enough for this to happen. If it somehow did, Earth's orbit would barely change, because the mass would be the same or less. The neutron star's gravity would only be extreme very close to it, and Earth would freeze without sunlight."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -1792,7 +1692,7 @@
   {
     "topic": "stars_stellar_evolution",
     "question": "How do scientists know stars are mostly hydrogen?",
-    "answer": "Hydrogen signatures dominate stellar spectra."
+    "answer": "In 1925 Cecilia Payne showed that, once you account for how temperature changes which spectral lines appear, star spectra imply that stars are mostly hydrogen. Models of how stars shine agree."
   },
   {
     "topic": "stars_stellar_evolution",
@@ -2327,7 +2227,7 @@
   {
     "topic": "stars_stellar_evolution",
     "question": "What would happen if a neutron star replaced the Sun?",
-    "answer": "Earth would freeze and face intense gravitational and radiation effects."
+    "answer": "Earth would freeze without sunlight. A typical neutron star has about 1.4 times the Sun's mass, so Earth's orbit would change, but its gravity at Earth's distance would not be extreme; the dangerous gravity is only close to the star."
   },
   {
     "topic": "stars_stellar_evolution",

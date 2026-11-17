@@ -101,11 +101,6 @@
   },
   {
     "topic": "black_holes",
-    "question": "Can black holes evaporate over time?",
-    "answer": "Yes, black holes may slowly lose energy through Hawking radiation."
-  },
-  {
-    "topic": "black_holes",
     "question": "What is Hawking radiation?",
     "answer": "Hawking radiation is theoretical radiation emitted due to quantum effects near a black hole."
   },
@@ -113,11 +108,6 @@
     "topic": "black_holes",
     "question": "Who proposed Hawking radiation?",
     "answer": "Stephen Hawking proposed Hawking radiation in 1974."
-  },
-  {
-    "topic": "black_holes",
-    "question": "What is the Schwarzschild radius?",
-    "answer": "The Schwarzschild radius is the radius defining the event horizon of a non-rotating black hole."
   },
   {
     "topic": "black_holes",
@@ -138,11 +128,6 @@
     "topic": "black_holes",
     "question": "Can time slow down near a black hole?",
     "answer": "Yes, strong gravity near a black hole causes time dilation."
-  },
-  {
-    "topic": "black_holes",
-    "question": "What is time dilation?",
-    "answer": "Time dilation is the slowing of time in strong gravitational fields or at high speeds."
   },
   {
     "topic": "black_holes",
@@ -201,11 +186,6 @@
   },
   {
     "topic": "black_holes",
-    "question": "What is spacetime?",
-    "answer": "Spacetime is the combined framework of space and time used in relativity."
-  },
-  {
-    "topic": "black_holes",
     "question": "How do black holes warp spacetime?",
     "answer": "Their extreme mass bends spacetime very strongly."
   },
@@ -213,11 +193,6 @@
     "topic": "black_holes",
     "question": "Can planets orbit black holes?",
     "answer": "Yes, planets could theoretically orbit black holes."
-  },
-  {
-    "topic": "black_holes",
-    "question": "What is an active galactic nucleus?",
-    "answer": "An active galactic nucleus is a bright galactic center powered by a supermassive black hole."
   },
   {
     "topic": "black_holes",
@@ -316,11 +291,6 @@
   },
   {
     "topic": "black_holes",
-    "question": "What is a quasar?",
-    "answer": "A quasar is a highly luminous object powered by a supermassive black hole."
-  },
-  {
-    "topic": "black_holes",
     "question": "Why do quasars appear extremely bright?",
     "answer": "Large amounts of infalling matter release enormous energy near the black hole."
   },
@@ -386,13 +356,8 @@
   },
   {
     "topic": "black_holes",
-    "question": "What is the Chandrasekhar limit?",
-    "answer": "It is the maximum mass a white dwarf can have before collapsing."
-  },
-  {
-    "topic": "black_holes",
     "question": "How is the Chandrasekhar limit related to black holes?",
-    "answer": "Stars exceeding certain mass limits may collapse into black holes."
+    "answer": "The Chandrasekhar limit, about 1.4 solar masses, is the most a white dwarf can weigh. A collapsing stellar core above this limit cannot become a white dwarf, so it becomes a neutron star or, if it is heavy enough, a black hole."
   },
   {
     "topic": "black_holes",
@@ -422,12 +387,7 @@
   {
     "topic": "black_holes",
     "question": "Why are supermassive black holes less dense on average?",
-    "answer": "Their mass increases faster than their volume."
-  },
-  {
-    "topic": "black_holes",
-    "question": "What is a tidal disruption event?",
-    "answer": "It occurs when a black hole tears apart a nearby star."
+    "answer": "A black hole's radius grows in proportion to its mass, so the volume inside its event horizon grows with the mass cubed. Its average density therefore falls as the mass rises, and the largest supermassive black holes have an average density lower than water."
   },
   {
     "topic": "black_holes",
@@ -672,7 +632,7 @@
   {
     "topic": "black_holes",
     "question": "What is a gravitational singularity?",
-    "answer": "It is a point where gravity and density become extremely large."
+    "answer": "A singularity is a point where general relativity predicts infinite density and spacetime curvature. It signals that our current theories break down there."
   },
   {
     "topic": "black_holes",
@@ -1022,7 +982,7 @@
   {
     "topic": "black_holes",
     "question": "Why can't anything escape a black hole?",
-    "answer": "Gravity inside the event horizon becomes stronger than the speed needed to escape."
+    "answer": "Inside the event horizon, the escape velocity is greater than the speed of light. Since nothing can travel faster than light, nothing can get out."
   },
   {
     "topic": "black_holes",
@@ -1058,11 +1018,6 @@
     "topic": "black_holes",
     "question": "Why does time slow down near a black hole?",
     "answer": "Strong gravity affects the flow of time according to relativity."
-  },
-  {
-    "topic": "black_holes",
-    "question": "Could a black hole swallow an entire galaxy?",
-    "answer": "No, objects far away can continue orbiting safely."
   },
   {
     "topic": "black_holes",
@@ -1237,7 +1192,7 @@
   {
     "topic": "black_holes",
     "question": "How do scientists take pictures of black holes?",
-    "answer": "They image the glowing matter surrounding the event horizon."
+    "answer": "They photograph the glowing gas just outside the event horizon. The Event Horizon Telescope links radio telescopes across Earth so they act like one Earth-sized telescope."
   },
   {
     "topic": "black_holes",
@@ -1418,11 +1373,6 @@
     "topic": "black_holes",
     "question": "How does matter behave right before falling into a black hole?",
     "answer": "It accelerates rapidly and becomes intensely heated."
-  },
-  {
-    "topic": "black_holes",
-    "question": "Could there be black holes smaller than atoms?",
-    "answer": "Some speculative theories allow extremely tiny black holes."
   },
   {
     "topic": "black_holes",

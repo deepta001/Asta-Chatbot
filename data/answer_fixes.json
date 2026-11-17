@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What would happen if Earth stopped orbiting the Sun?",
+    "answer": "If Earth suddenly stopped moving along its orbit, the Sun's gravity would pull it straight inward and it would fall into the Sun in about two months. If instead the Sun's gravity vanished, Earth would carry on in a straight line because of inertia.",
+    "reason": "Duplicate answers contradicted each other (drift away vs fall in); this answer explains both cases."
+  },
+  {
+    "question": "Why can't anything escape a black hole?",
+    "answer": "Inside the event horizon, the escape velocity is greater than the speed of light. Since nothing can travel faster than light, nothing can get out.",
+    "reason": "Both original answers compared gravity to a speed, which does not make sense."
+  },
+  {
+    "question": "What would happen if you tried to walk on Jupiter?",
+    "answer": "You couldn't, because Jupiter has no solid surface. You would sink through ever denser gas, and its gravity, about 2.5 times Earth's, would make you feel much heavier.",
+    "reason": "Duplicate answers each gave only half of the picture; combined."
+  },
+  {
+    "question": "How do scientists take pictures of black holes?",
+    "answer": "They photograph the glowing gas just outside the event horizon. The Event Horizon Telescope links radio telescopes across Earth so they act like one Earth-sized telescope.",
+    "reason": "Duplicate answers each gave only half of the picture; combined."
+  },
+  {
+    "question": "Why are giant planets mostly made of gas?",
+    "answer": "They formed far from their star, where ices were plentiful, so their cores grew large quickly. Their strong gravity then captured huge amounts of hydrogen and helium gas.",
+    "reason": "Duplicate answers each gave only half of the picture; combined."
+  },
+  {
+    "question": "What is a gravitational singularity?",
+    "answer": "A singularity is a point where general relativity predicts infinite density and spacetime curvature. It signals that our current theories break down there.",
+    "reason": "Duplicate answers each gave only half of the picture; combined."
+  },
+  {
+    "question": "What is gravitational microlensing?",
+    "answer": "Microlensing is the temporary brightening of a background star when a foreground star or planet passes in front of it and its gravity bends the light. Astronomers use it to detect planets.",
+    "reason": "Duplicate answers each gave only half of the picture; combined."
+  },
+  {
+    "question": "What is special relativity?",
+    "answer": "Special relativity, published by Einstein in 1905, describes how space and time behave for observers moving at constant velocity. Its effects become large near the speed of light.",
+    "reason": "One duplicate answer wrongly suggested it only applies close to light speed."
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "answer": "The speed of light in a vacuum is exactly 299,792,458 meters per second, which is about 300,000 kilometers per second.",
+    "reason": "Duplicate answers gave two different rounded values; this gives the exact value."
+  },
+  {
+    "question": "How does gravity change as you move toward Earth's center?",
+    "answer": "In a simple model where Earth has uniform density, gravity decreases steadily to zero at the center. Because Earth's core is much denser than its outer layers, real gravity actually rises slightly at first, peaking near the core-mantle boundary, before falling to zero at the center.",
+    "reason": "Original answer ('decreases linearly') is only true for a uniform-density Earth."
+  },
+  {
+    "question": "What is the formula for gravitational force?",
+    "answer": "Newton's law of gravitation gives F = G(m1m2)/r^2, where G is the gravitational constant, m1 and m2 are the two masses, and r is the distance between their centers.",
+    "reason": "Formula given without explaining its terms."
+  },
+  {
+    "question": "What is the approximate value of G?",
+    "answer": "The gravitational constant G is approximately 6.674 × 10^-11 N·m²/kg².",
+    "reason": "Sentence fragment; now names the constant."
+  },
+  {
+    "question": "What is the value of gravitational acceleration on Earth?",
+    "answer": "Near Earth's surface, gravitational acceleration is about 9.8 m/s², so a falling object gains about 9.8 m/s of speed every second if air resistance is ignored.",
+    "reason": "Sentence fragment; added what the number means."
+  },
+  {
+    "question": "What is the unit of gravitational field strength?",
+    "answer": "Gravitational field strength is measured in newtons per kilogram (N/kg), which is equivalent to meters per second squared (m/s²).",
+    "reason": "Sentence fragment; added the equivalent unit."
+  },
+  {
+    "question": "What is Earth's escape velocity?",
+    "answer": "Earth's escape velocity is about 11.2 km/s. This is the minimum speed an object needs at the surface to escape Earth's gravity without further propulsion, ignoring air resistance.",
+    "reason": "Sentence fragment; added what escape velocity means."
+  },
+  {
+    "question": "How is gravitational potential energy calculated near Earth?",
+    "answer": "Near Earth's surface, gravitational potential energy is calculated as mgh: mass times gravitational acceleration (about 9.8 m/s²) times height.",
+    "reason": "'Using mgh' does not explain the terms."
+  },
+  {
+    "question": "What is gravitational potential?",
+    "answer": "Gravitational potential is the gravitational potential energy per unit mass at a point in a gravitational field, measured in joules per kilogram (J/kg).",
+    "reason": "Sentence fragment; added units."
+  },
+  {
+    "question": "What direction does gravitational force act?",
+    "answer": "Gravitational force acts along the line joining two objects, pulling each one toward the other's center of mass.",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "What is Einstein's view of gravity?",
+    "answer": "In general relativity, Einstein described gravity not as a force but as the curvature of spacetime caused by mass and energy.",
+    "reason": "Sentence fragment; added the theory's name."
+  },
+  {
+    "question": "What is the event horizon?",
+    "answer": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape.",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "What is gravitational time dilation?",
+    "answer": "Gravitational time dilation is the effect, predicted by general relativity, that clocks closer to a massive object tick more slowly than clocks farther away.",
+    "reason": "Both duplicate answers were vague."
+  },
+  {
+    "question": "What is gravitational redshift?",
+    "answer": "Gravitational redshift is the stretching of light to longer wavelengths as it climbs out of a gravitational field, because the light loses energy.",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "Why is gravity weaker on the Moon than Earth?",
+    "answer": "The Moon has only about 1.2% of Earth's mass. Even though it is also smaller, its surface gravity ends up about one-sixth of Earth's.",
+    "reason": "Original ignored that surface gravity depends on radius as well as mass."
+  },
+  {
+    "question": "What is gravitational acceleration on the Moon?",
+    "answer": "Gravitational acceleration on the Moon is about 1.6 m/s², roughly one-sixth of Earth's.",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "What unit measures gravitational force?",
+    "answer": "Like all forces, gravitational force is measured in newtons (N).",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "Which law explains equal and opposite gravitational forces?",
+    "answer": "Newton's third law. If Earth pulls on you, you pull on Earth with an equal and opposite gravitational force.",
+    "reason": "Sentence fragment; added an example."
+  },
+  {
+    "question": "What is gravitational acceleration at Earth's center?",
+    "answer": "It is zero, because Earth's mass surrounds you equally in every direction and the pulls cancel out.",
+    "reason": "Gave no reason."
+  },
+  {
+    "question": "What is gravitational force at the exact center of Earth?",
+    "answer": "Zero, because Earth's mass pulls equally in every direction there, so the pulls cancel out.",
+    "reason": "Gave no reason."
+  },
+  {
+    "question": "What is Kepler's first law?",
+    "answer": "Kepler's first law states that planets move in elliptical orbits, with the Sun at one focus of the ellipse.",
+    "reason": "Missing the Sun-at-a-focus part of the law."
+  },
+  {
+    "question": "What determines the Schwarzschild radius of an object?",
+    "answer": "Only its mass. The Schwarzschild radius is r = 2GM/c², so doubling the mass doubles the radius.",
+    "reason": "Added the formula."
+  },
+  {
+    "question": "What is the formula for gravitational potential of a point mass?",
+    "answer": "V = -GM/r, where M is the mass and r is the distance from it. It is negative because potential is defined as zero at infinity.",
+    "reason": "Formula given without explaining its terms."
+  },
+  {
+    "question": "What does constant areal velocity signify?",
+    "answer": "Kepler's second law says a planet sweeps out equal areas in equal times. This constant areal velocity is a consequence of conservation of angular momentum.",
+    "reason": "Sentence fragment; added context."
+  },
+  {
+    "question": "Why is gravitational parameter commonly used in calculations?",
+    "answer": "The standard gravitational parameter, GM, can be measured from orbits far more precisely than G or the mass M separately, so using it gives more accurate orbital calculations.",
+    "reason": "Original gave a weak reason; precision is the main one."
+  },
+  {
+    "question": "What is the formula for circular orbital velocity?",
+    "answer": "v = √(GM/r), where M is the mass of the central body and r is the radius of the orbit.",
+    "reason": "Formula given without explaining its terms."
+  },
+  {
+    "question": "What is gravitational potential energy at infinity taken as?",
+    "answer": "Zero. This is a convention, and it is why gravitational potential energy at any finite distance is negative.",
+    "reason": "One-word answer."
+  },
+  {
+    "question": "What is the shape of equipotential surfaces around a point mass?",
+    "answer": "They are concentric spheres centered on the mass.",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "Which law relates gravitational flux to mass?",
+    "answer": "Gauss's law for gravity, which says the total gravitational flux through a closed surface is proportional to the mass enclosed.",
+    "reason": "Named the law without stating it."
+  },
+  {
+    "question": "Why is gravitational force zero inside a hollow shell?",
+    "answer": "By Newton's shell theorem, the pulls from all parts of a uniform shell cancel exactly at every point inside it.",
+    "reason": "Added the name of the theorem."
+  },
+  {
+    "question": "How many Lagrange points exist in a two-body system?",
+    "answer": "Five, labelled L1 to L5. They are positions where a small object can keep a fixed position relative to two larger orbiting bodies.",
+    "reason": "One-word answer."
+  },
+  {
+    "question": "What is surface gravity of a neutron star like?",
+    "answer": "Extremely strong: roughly 200 billion times Earth's surface gravity, because more mass than the Sun is packed into a sphere about 20 km across.",
+    "reason": "Vague; added a magnitude."
+  },
+  {
+    "question": "What is effective gravity on Earth?",
+    "answer": "Effective gravity is the gravity you actually feel: Earth's gravitational pull slightly reduced by the effect of Earth's rotation, which is strongest at the equator.",
+    "reason": "Sentence fragment."
+  },
+  {
+    "question": "Why do stars collapse into black holes?",
+    "answer": "When a very massive star's core runs out of fuel, no pressure, not even from tightly packed neutrons, can resist gravity, so the core collapses into a black hole.",
+    "reason": "Vague; added what gravity overwhelms."
+  },
+  {
+    "question": "What is specular reflection?",
+    "answer": "Specular reflection is mirror-like reflection from a smooth surface, where light leaves at the same angle it arrived.",
+    "reason": "Original answer was circular."
+  },
+  {
+    "question": "How is the Chandrasekhar limit related to black holes?",
+    "answer": "The Chandrasekhar limit, about 1.4 solar masses, is the most a white dwarf can weigh. A collapsing stellar core above this limit cannot become a white dwarf, so it becomes a neutron star or, if it is heavy enough, a black hole.",
+    "reason": "Full review: original was vague and did not say the limit applies to white dwarfs."
+  },
+  {
+    "question": "Why are supermassive black holes less dense on average?",
+    "answer": "A black hole's radius grows in proportion to its mass, so the volume inside its event horizon grows with the mass cubed. Its average density therefore falls as the mass rises, and the largest supermassive black holes have an average density lower than water.",
+    "reason": "Full review: original said mass grows faster than volume, which is the wrong way round."
+  },
+  {
+    "question": "Why do astronauts age slightly slower in space?",
+    "answer": "On the International Space Station, their high orbital speed makes their clocks run slightly slow. Weaker gravity has the opposite effect, but at the station's height the speed effect is larger, so after six months they have aged about five thousandths of a second less.",
+    "reason": "Full review: original implied speed and gravity both slow their clocks; weaker gravity actually speeds them up."
+  },
+  {
+    "question": "Why do scientists think the first stars were extremely massive?",
+    "answer": "Without heavier elements, the first gas clouds could not cool down efficiently. Only very large clumps of gas could collapse, so the first stars were probably very massive.",
+    "reason": "Full review: original did not explain why simpler material leads to massive stars."
+  },
+  {
+    "question": "What is gravitational field inside a solid sphere?",
+    "answer": "For a sphere of uniform density, the field increases steadily from zero at the center to its maximum at the surface. Real planets like Earth are denser in the middle, so their field does not rise in a straight line.",
+    "reason": "Full review: original only holds for uniform density but did not say so."
+  },
+  {
+    "question": "Why are Lagrange points useful?",
+    "answer": "A spacecraft placed at or orbiting a Lagrange point keeps roughly the same position relative to two bodies, such as the Sun and Earth, using very little fuel. The James Webb Space Telescope orbits near the Sun-Earth L2 point.",
+    "reason": "Full review: original implied all Lagrange points are stable; L1, L2 and L3 are not."
+  },
+  {
+    "question": "Why do tides happen twice a day?",
+    "answer": "The Moon's tidal force stretches Earth's oceans into two bulges, one facing the Moon and one on the opposite side. As Earth rotates through both bulges, most places get two high tides about every 24 hours and 50 minutes.",
+    "reason": "Full review: original did not explain why there are two tides rather than one."
+  },
+  {
+    "question": "Why does gravity pull equally on all objects?",
+    "answer": "It doesn't pull with equal force: heavier objects feel a larger force. But they also have more inertia, so every object gets the same acceleration, about 9.8 m/s² near Earth's surface.",
+    "reason": "Full review: the force is not equal, only the acceleration is."
+  },
+  {
+    "question": "Why does gravity help keep Earth's atmosphere layered?",
+    "answer": "Gravity compresses the air, so the atmosphere is densest at the surface and thins with height. Below about 100 km, winds keep the gases well mixed; only above that do heavier gases settle lower than lighter ones.",
+    "reason": "Full review: original claimed heavier gases sit lower, which is not true in the well-mixed lower atmosphere."
+  },
+  {
+    "question": "Is the Sun close to the center of the Milky Way?",
+    "answer": "No. The Sun is about 26,000 light-years from the center, roughly halfway out through the Milky Way's disk.",
+    "reason": "Full review: original said the outer part of the disk; the Sun is about halfway out."
+  },
+  {
+    "question": "How can sunlight travel for millions of years inside the Sun before escaping?",
+    "answer": "It doesn't take millions of years. Energy from the core is absorbed and re-emitted countless times as it works its way out, so estimates for the journey to the surface range from about 10,000 to 170,000 years. The final trip to Earth takes only about 8 minutes.",
+    "reason": "Full review: the question's 'millions of years' is an outdated figure; the answer now corrects it."
+  },
+  {
+    "question": "Which planets are known to have auroras?",
+    "answer": "Earth, Jupiter, Saturn, Uranus and Neptune have auroras. Patchy auroras have also been seen on Mars, even though it has no global magnetic field.",
+    "reason": "Full review: original left out Mars."
+  },
+  {
+    "question": "What would rain on Venus be like?",
+    "answer": "Venus has clouds of sulfuric acid droplets, but the acid rain evaporates in the extremely hot lower atmosphere before it can reach the surface.",
+    "reason": "Full review: original did not say the rain never reaches the ground."
+  },
+  {
+    "question": "Why are planets closer to the Sun usually rocky?",
+    "answer": "Near the young Sun it was too hot for water and other ices to freeze, so only rock and metal could clump together. That made the inner planets small and rocky.",
+    "reason": "Full review: original spoke of gases condensing; the key factor is that ices could not freeze."
+  },
+  {
+    "question": "What would happen if the Sun suddenly stopped fusing hydrogen?",
+    "answer": "Not much at first. Energy already inside the Sun takes tens of thousands of years or more to reach the surface, so it would keep shining for a long time while its core slowly contracted and heated up.",
+    "reason": "Full review: original suggested an immediate collapse."
+  },
+  {
+    "question": "How does the Sun compare to most stars in the galaxy?",
+    "answer": "The Sun is an ordinary main-sequence star, but it is bigger and brighter than most. About three-quarters of the stars in the Milky Way are smaller, dimmer red dwarfs.",
+    "reason": "Full review: original called the Sun average-sized, but most stars are smaller red dwarfs."
+  },
+  {
+    "question": "What would happen if the Sun became a neutron star instead of a white dwarf?",
+    "answer": "The Sun is not massive enough for this to happen. If it somehow did, Earth's orbit would barely change, because the mass would be the same or less. The neutron star's gravity would only be extreme very close to it, and Earth would freeze without sunlight.",
+    "reason": "Full review: original implied gravity at Earth would become extreme."
+  },
+  {
+    "question": "How do scientists know stars are mostly hydrogen?",
+    "answer": "In 1925 Cecilia Payne showed that, once you account for how temperature changes which spectral lines appear, star spectra imply that stars are mostly hydrogen. Models of how stars shine agree.",
+    "reason": "Full review: hydrogen lines do not simply dominate spectra; the conclusion needs temperature effects to be accounted for."
+  },
+  {
+    "question": "What would happen if a neutron star replaced the Sun?",
+    "answer": "Earth would freeze without sunlight. A typical neutron star has about 1.4 times the Sun's mass, so Earth's orbit would change, but its gravity at Earth's distance would not be extreme; the dangerous gravity is only close to the star.",
+    "reason": "Full review: original implied intense gravitational effects at Earth."
+  },
+  {
+    "question": "What if light traveled infinitely fast?",
+    "answer": "Physics would work like Newton's version: there would be no time dilation or length contraction, and we would see distant objects as they are right now rather than as they were in the past.",
+    "reason": "Full review: original claimed cause and effect would break down, which does not follow."
+  }
+]

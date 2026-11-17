@@ -1,0 +1,121 @@
+ASTA DATA QUALITY REPORT
+========================================
+
+Raw files:
+  blackholes_500.json: 505 records
+  cosmology_500.json: 505 records
+  galaxies_500.json: 500 records
+  gravity_500.json: 496 records
+  light_500.json: 501 records
+  planets_500.json: 501 records
+  stars_500.json: 501 records
+  time_500.json: 502 records
+
+Records before cleaning:        4011
+Records with missing fields:    0
+Duplicate groups found:         102
+Duplicate records removed:      129
+Groups with differing answers:  92 (see duplicate_review.json)
+Hand-checked answer fixes:      63 (see answer_fixes.json)
+Records after cleaning:         3882
+
+Topic labels (raw -> normalised):
+  'Cosmology' -> 'cosmology' (505)
+  'Light' -> 'light' (501)
+  'black_holes' -> 'black_holes' (505)
+  'galaxies' -> 'galaxies' (500)
+  'gravity' -> 'gravity' (496)
+  'planets_and_exoplanets' -> 'planets_and_exoplanets' (501)
+  'stars_stellar_evolution' -> 'stars_stellar_evolution' (501)
+  'time' -> 'time' (502)
+
+Topic                       Train    Val  Total
+black_holes                   396     99    495
+cosmology                     379     95    474
+galaxies                      401     99    500
+gravity                       382     96    478
+light                         389     95    484
+planets_and_exoplanets        387     97    484
+stars_stellar_evolution       385     96    481
+time                          389     97    486
+TOTAL                        3108    774   3882
+
+Split: stratified by topic, 80/20, seed 42
+Leakage check (val question or answer found in train): 0
+
+Answers shorter than 6 words after fixes: 75
+  [cosmology] What keeps planets orbiting stars? -> Gravity keeps planets orbiting stars.
+  [cosmology] What powers a star? -> Nuclear fusion powers a star.
+  [cosmology] What would happen if Earth moved closer to the Sun? -> Global temperatures would rise dramatically.
+  [cosmology] How can astronomers tell when galaxies are moving toward each other? -> Their light becomes blueshifted.
+  [cosmology] What would happen if Earth passed through a dense asteroid field? -> Collision risks would increase significantly.
+  [gravity] What provides centripetal force in planetary orbits? -> Gravity from the central body.
+  [gravity] Is gravity always attractive? -> Yes, gravity always attracts objects.
+  [gravity] What happens to gravitational force if distance is doubled? -> It becomes one-fourth as strong.
+  [gravity] What is gravitational potential at infinity? -> It is defined as zero.
+  [gravity] How does orbital velocity change with altitude? -> It decreases as altitude increases.
+  [gravity] What is gravitational force inside a hollow shell? -> It is zero everywhere inside.
+  [gravity] What causes gravitational time dilation? -> Differences in gravitational field strength.
+  [gravity] What happens to total mechanical energy in a gravitational system without losses? -> It remains constant.
+  [gravity] What does negative orbital energy indicate? -> The object is gravitationally bound.
+  [gravity] What condition defines a circular orbit? -> Gravitational force equals centripetal force.
+  [gravity] How does circular orbital velocity vary with radius? -> It decreases as radius increases.
+  [gravity] What does work done against gravity represent? -> Increase in gravitational potential energy.
+  [gravity] What happens when moving along an equipotential surface? -> No work is done.
+  [gravity] What is gravitational potential inside a hollow shell? -> It is constant throughout.
+  [gravity] How does lowering the center of gravity affect stability? -> It increases stability.
+  [gravity] How does gravity bind galaxy clusters? -> It holds multiple galaxies together.
+  [gravity] What is vacuum energy in gravity? -> Energy associated with empty space.
+  [gravity] Why do objects fall faster as they drop? -> Gravity accelerates them downward.
+  [gravity] What would happen if you could turn off gravity in a room? -> Everything would float freely.
+  [gravity] Why do raindrops fall toward the ground? -> Gravity pulls them downward.
+  [gravity] Why does gravity affect everything with mass? -> Because mass creates gravitational attraction.
+  [gravity] What happens if a satellite moves too slowly? -> It falls back toward Earth.
+  [gravity] What happens if a satellite moves too fast? -> It may escape Earth’s gravity.
+  [gravity] Why do dropped objects speed up while falling? -> Gravity continuously accelerates them downward.
+  [gravity] What would happen if gravity were stronger at night? -> Objects would temporarily weigh more.
+  [gravity] Why do planets move in curved paths instead of straight lines? -> Gravity constantly changes their direction.
+  [gravity] What would happen to Earth’s oceans without gravity? -> Water would drift into space.
+  [gravity] Why do rivers always find lower ground? -> Gravity pulls water downhill.
+  [gravity] How does gravity influence earthquakes and landslides? -> Gravity pulls loosened material downhill.
+  [gravity] How does gravity affect how high humans can build structures? -> Stronger gravity increases structural stress.
+  [gravity] How does gravity affect volcanic lava flows? -> It pulls molten rock downhill.
+  [gravity] Why do meteors speed up as they approach Earth? -> Earth’s gravity accelerates them inward.
+  [gravity] Why does gravity keep planets from drifting into deep space? -> Stars continuously pull planets inward.
+  [gravity] How does gravity influence the movement of glaciers? -> Gravity slowly pulls ice downhill.
+  [gravity] How does gravity affect lava flowing from volcanoes? -> Gravity pulls molten rock downhill.
+  [gravity] Why do planets stay together instead of breaking apart? -> Gravity holds their matter together.
+  [light] Why do stars appear to twinkle? -> Earth's atmosphere bends starlight unevenly.
+  [light] How are wavelength and frequency related? -> As wavelength increases, frequency decreases.
+  [light] Why do reflecting telescopes avoid chromatic aberration? -> Mirrors reflect all wavelengths equally.
+  [light] Why must X-ray telescopes usually be placed in space? -> Earth's atmosphere blocks most X-rays.
+  [light] Why are telescope mirrors often coated with aluminum? -> Aluminum reflects light efficiently.
+  [light] How does telescope diameter affect resolution? -> Larger diameters generally improve resolution.
+  [light] Why do polished surfaces reflect light well? -> Smooth surfaces scatter less light.
+  [light] Why do telescope mirrors need to stay very smooth? -> Surface imperfections distort incoming light.
+  [light] What makes telescope images clearer in space than on Earth? -> Space telescopes avoid atmospheric distortion.
+  [light] Why do some stars appear to flash different colors? -> Atmospheric turbulence bends starlight unevenly.
+  [light] Why do some observatories build telescopes high above the ground? -> Higher elevations reduce atmospheric interference.
+  [planets_and_exoplanets] Which planet rotates on its side? -> Uranus rotates on its side.
+  [planets_and_exoplanets] Could there be planets where life uses chemistry unlike Earth's biology? -> Alternative biochemistries are theoretically possible.
+  [stars_stellar_evolution] Which spectral class contains the hottest stars? -> O-type stars are the hottest.
+  [stars_stellar_evolution] Why do stars twinkle when viewed from Earth? -> Earth's atmosphere bends starlight unevenly.
+  [stars_stellar_evolution] Why do red dwarfs live so long? -> They burn hydrogen very slowly.
+  [stars_stellar_evolution] What would happen if the Sun suddenly became much cooler? -> Earth's temperatures would rapidly decrease.
+  [stars_stellar_evolution] How do stars affect the temperatures of nearby interstellar gas? -> Their radiation heats surrounding material.
+  [time] What causes spacetime curvature? -> Mass and energy curve spacetime.
+  [time] Why can't information travel faster than light? -> Faster-than-light signals would violate causality.
+  [time] What happens to an object's momentum near light speed? -> Its momentum increases dramatically.
+  [time] Why does light follow curved paths near massive bodies? -> Light travels through curved spacetime.
+  [time] Why is Euclidean geometry insufficient for relativity? -> Curved spacetime requires non-Euclidean geometry.
+  [time] How can space and time be connected? -> Relativity combines them into spacetime.
+  [time] Could twins really end up different ages in space travel? -> Yes, relativity predicts that outcome.
+  [time] Why does relativity replace the idea of absolute time? -> Different observers measure time differently.
+  [time] How can the same event happen at different times for different people? -> Relativity changes simultaneity between observers.
+  [time] How can time stretch without tearing apart the universe? -> Spacetime naturally allows flexible geometry.
+  [time] Why do physicists trust equations that sound impossible? -> Experiments repeatedly confirm relativistic predictions.
+  [time] What would happen if time flowed backward everywhere? -> Cause-and-effect relationships would become unclear.
+  [time] How can empty space still affect time and motion? -> Spacetime itself has geometric structure.
+  [time] Would humans ever need relativistic maps for space travel? -> Near-light-speed navigation would require them.
+  [time] Would the universe look compressed at relativistic speeds? -> Distances ahead could appear shortened.
+  [time] Why does time seem simple until physics examines it closely? -> Everyday experiences hide relativistic effects.

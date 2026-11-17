@@ -1,6 +1,21 @@
 [
   {
     "topic": "gravity",
+    "question": "Why do planets not crash into the Sun?",
+    "answer": "Their sideways motion keeps them orbiting instead of falling directly inward."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you tried to walk on Jupiter?",
+    "answer": "You couldn't, because Jupiter has no solid surface. You would sink through ever denser gas, and its gravity, about 2.5 times Earth's, would make you feel much heavier."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity shape the universe?",
+    "answer": "It pulls matter together to form stars, planets, and galaxies."
+  },
+  {
+    "topic": "gravity",
     "question": "What is gravity?",
     "answer": "Gravity is the force that attracts objects with mass toward each other."
   },
@@ -22,7 +37,7 @@
   {
     "topic": "gravity",
     "question": "What is the formula for gravitational force?",
-    "answer": "F = G(m1m2)/r^2."
+    "answer": "Newton's law of gravitation gives F = G(m1m2)/r^2, where G is the gravitational constant, m1 and m2 are the two masses, and r is the distance between their centers."
   },
   {
     "topic": "gravity",
@@ -32,7 +47,7 @@
   {
     "topic": "gravity",
     "question": "What is the approximate value of G?",
-    "answer": "Approximately 6.674 × 10^-11 N·m²/kg²."
+    "answer": "The gravitational constant G is approximately 6.674 × 10^-11 N·m²/kg²."
   },
   {
     "topic": "gravity",
@@ -57,7 +72,7 @@
   {
     "topic": "gravity",
     "question": "What is the value of gravitational acceleration on Earth?",
-    "answer": "Approximately 9.8 m/s²."
+    "answer": "Near Earth's surface, gravitational acceleration is about 9.8 m/s², so a falling object gains about 9.8 m/s of speed every second if air resistance is ignored."
   },
   {
     "topic": "gravity",
@@ -87,7 +102,7 @@
   {
     "topic": "gravity",
     "question": "What is the unit of gravitational field strength?",
-    "answer": "Newtons per kilogram (N/kg)."
+    "answer": "Gravitational field strength is measured in newtons per kilogram (N/kg), which is equivalent to meters per second squared (m/s²)."
   },
   {
     "topic": "gravity",
@@ -101,13 +116,8 @@
   },
   {
     "topic": "gravity",
-    "question": "What is escape velocity?",
-    "answer": "The minimum speed needed to leave a gravitational field."
-  },
-  {
-    "topic": "gravity",
     "question": "What is Earth's escape velocity?",
-    "answer": "About 11.2 km/s."
+    "answer": "Earth's escape velocity is about 11.2 km/s. This is the minimum speed an object needs at the surface to escape Earth's gravity without further propulsion, ignoring air resistance."
   },
   {
     "topic": "gravity",
@@ -117,12 +127,12 @@
   {
     "topic": "gravity",
     "question": "How is gravitational potential energy calculated near Earth?",
-    "answer": "Using mgh."
+    "answer": "Near Earth's surface, gravitational potential energy is calculated as mgh: mass times gravitational acceleration (about 9.8 m/s²) times height."
   },
   {
     "topic": "gravity",
     "question": "What is gravitational potential?",
-    "answer": "Potential energy per unit mass."
+    "answer": "Gravitational potential is the gravitational potential energy per unit mass at a point in a gravitational field, measured in joules per kilogram (J/kg)."
   },
   {
     "topic": "gravity",
@@ -167,7 +177,7 @@
   {
     "topic": "gravity",
     "question": "What direction does gravitational force act?",
-    "answer": "Toward the center of mass."
+    "answer": "Gravitational force acts along the line joining two objects, pulling each one toward the other's center of mass."
   },
   {
     "topic": "gravity",
@@ -182,32 +192,12 @@
   {
     "topic": "gravity",
     "question": "What is Einstein’s view of gravity?",
-    "answer": "Gravity is curvature of spacetime."
-  },
-  {
-    "topic": "gravity",
-    "question": "What is spacetime?",
-    "answer": "A four-dimensional combination of space and time."
-  },
-  {
-    "topic": "gravity",
-    "question": "What is gravitational lensing?",
-    "answer": "Bending of light by gravity."
-  },
-  {
-    "topic": "gravity",
-    "question": "What are gravitational waves?",
-    "answer": "Ripples in spacetime caused by massive motion."
-  },
-  {
-    "topic": "gravity",
-    "question": "What is a black hole?",
-    "answer": "A region with extremely strong gravity."
+    "answer": "In general relativity, Einstein described gravity not as a force but as the curvature of spacetime caused by mass and energy."
   },
   {
     "topic": "gravity",
     "question": "What is the event horizon?",
-    "answer": "Boundary beyond which nothing escapes."
+    "answer": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape."
   },
   {
     "topic": "gravity",
@@ -216,13 +206,8 @@
   },
   {
     "topic": "gravity",
-    "question": "What is gravitational time dilation?",
-    "answer": "Time slows in strong gravity."
-  },
-  {
-    "topic": "gravity",
     "question": "What is gravitational redshift?",
-    "answer": "Light loses energy escaping gravity."
+    "answer": "Gravitational redshift is the stretching of light to longer wavelengths as it climbs out of a gravitational field, because the light loses energy."
   },
   {
     "topic": "gravity",
@@ -237,12 +222,12 @@
   {
     "topic": "gravity",
     "question": "Why is gravity weaker on the Moon than Earth?",
-    "answer": "The Moon has less mass."
+    "answer": "The Moon has only about 1.2% of Earth's mass. Even though it is also smaller, its surface gravity ends up about one-sixth of Earth's."
   },
   {
     "topic": "gravity",
     "question": "What is gravitational acceleration on the Moon?",
-    "answer": "About 1.6 m/s²."
+    "answer": "Gravitational acceleration on the Moon is about 1.6 m/s², roughly one-sixth of Earth's."
   },
   {
     "topic": "gravity",
@@ -267,7 +252,7 @@
   {
     "topic": "gravity",
     "question": "What unit measures gravitational force?",
-    "answer": "Newton (N)."
+    "answer": "Like all forces, gravitational force is measured in newtons (N)."
   },
   {
     "topic": "gravity",
@@ -297,7 +282,7 @@
   {
     "topic": "gravity",
     "question": "Which law explains equal and opposite gravitational forces?",
-    "answer": "Newton’s third law."
+    "answer": "Newton's third law. If Earth pulls on you, you pull on Earth with an equal and opposite gravitational force."
   },
   {
     "topic": "gravity",
@@ -322,12 +307,12 @@
   {
     "topic": "gravity",
     "question": "What is gravitational acceleration at Earth's center?",
-    "answer": "It is zero."
+    "answer": "It is zero, because Earth's mass surrounds you equally in every direction and the pulls cancel out."
   },
   {
     "topic": "gravity",
     "question": "How does gravity change as you move toward Earth's center?",
-    "answer": "It decreases linearly."
+    "answer": "In a simple model where Earth has uniform density, gravity decreases steadily to zero at the center. Because Earth's core is much denser than its outer layers, real gravity actually rises slightly at first, peaking near the core-mantle boundary, before falling to zero at the center."
   },
   {
     "topic": "gravity",
@@ -342,7 +327,7 @@
   {
     "topic": "gravity",
     "question": "What is gravitational field inside a solid sphere?",
-    "answer": "It increases from zero at the center to maximum at the surface."
+    "answer": "For a sphere of uniform density, the field increases steadily from zero at the center to its maximum at the surface. Real planets like Earth are denser in the middle, so their field does not rise in a straight line."
   },
   {
     "topic": "gravity",
@@ -377,7 +362,7 @@
   {
     "topic": "gravity",
     "question": "What is Kepler’s first law?",
-    "answer": "Planets move in elliptical orbits."
+    "answer": "Kepler's first law states that planets move in elliptical orbits, with the Sun at one focus of the ellipse."
   },
   {
     "topic": "gravity",
@@ -402,7 +387,7 @@
   {
     "topic": "gravity",
     "question": "What is effective gravity on Earth?",
-    "answer": "Gravity adjusted for Earth's rotation."
+    "answer": "Effective gravity is the gravity you actually feel: Earth's gravitational pull slightly reduced by the effect of Earth's rotation, which is strongest at the equator."
   },
   {
     "topic": "gravity",
@@ -436,13 +421,8 @@
   },
   {
     "topic": "gravity",
-    "question": "What is the Schwarzschild radius?",
-    "answer": "The radius where escape velocity equals light speed."
-  },
-  {
-    "topic": "gravity",
     "question": "What determines the Schwarzschild radius of an object?",
-    "answer": "Its mass."
+    "answer": "Only its mass. The Schwarzschild radius is r = 2GM/c², so doubling the mass doubles the radius."
   },
   {
     "topic": "gravity",
@@ -461,11 +441,6 @@
   },
   {
     "topic": "gravity",
-    "question": "What is gravitational collapse?",
-    "answer": "Matter falling inward under gravity."
-  },
-  {
-    "topic": "gravity",
     "question": "Does gravity have infinite range?",
     "answer": "Yes, but it weakens with distance."
   },
@@ -477,7 +452,7 @@
   {
     "topic": "gravity",
     "question": "What is gravitational clustering?",
-    "answer": "Grouping of matter due to gravity."
+    "answer": "Aggregation of matter due to gravity."
   },
   {
     "topic": "gravity",
@@ -502,7 +477,7 @@
   {
     "topic": "gravity",
     "question": "What is the formula for gravitational potential of a point mass?",
-    "answer": "V = -GM/r."
+    "answer": "V = -GM/r, where M is the mass and r is the distance from it. It is negative because potential is defined as zero at infinity."
   },
   {
     "topic": "gravity",
@@ -572,7 +547,7 @@
   {
     "topic": "gravity",
     "question": "What does constant areal velocity signify?",
-    "answer": "Conservation of angular momentum."
+    "answer": "Kepler's second law says a planet sweeps out equal areas in equal times. This constant areal velocity is a consequence of conservation of angular momentum."
   },
   {
     "topic": "gravity",
@@ -587,7 +562,7 @@
   {
     "topic": "gravity",
     "question": "Why is gravitational parameter commonly used in calculations?",
-    "answer": "Because it simplifies orbital equations."
+    "answer": "The standard gravitational parameter, GM, can be measured from orbits far more precisely than G or the mass M separately, so using it gives more accurate orbital calculations."
   },
   {
     "topic": "gravity",
@@ -597,7 +572,7 @@
   {
     "topic": "gravity",
     "question": "What is the formula for circular orbital velocity?",
-    "answer": "v = √(GM/r)."
+    "answer": "v = √(GM/r), where M is the mass of the central body and r is the radius of the orbit."
   },
   {
     "topic": "gravity",
@@ -607,7 +582,7 @@
   {
     "topic": "gravity",
     "question": "What is gravitational potential energy at infinity taken as?",
-    "answer": "Zero."
+    "answer": "Zero. This is a convention, and it is why gravitational potential energy at any finite distance is negative."
   },
   {
     "topic": "gravity",
@@ -627,7 +602,7 @@
   {
     "topic": "gravity",
     "question": "What is gravitational force at the exact center of Earth?",
-    "answer": "Zero."
+    "answer": "Zero, because Earth's mass pulls equally in every direction there, so the pulls cancel out."
   },
   {
     "topic": "gravity",
@@ -647,7 +622,7 @@
   {
     "topic": "gravity",
     "question": "What is the shape of equipotential surfaces around a point mass?",
-    "answer": "Concentric spheres."
+    "answer": "They are concentric spheres centered on the mass."
   },
   {
     "topic": "gravity",
@@ -662,7 +637,7 @@
   {
     "topic": "gravity",
     "question": "Which law relates gravitational flux to mass?",
-    "answer": "Gauss’s law for gravity."
+    "answer": "Gauss's law for gravity, which says the total gravitational flux through a closed surface is proportional to the mass enclosed."
   },
   {
     "topic": "gravity",
@@ -677,7 +652,7 @@
   {
     "topic": "gravity",
     "question": "Why is gravitational force zero inside a hollow shell?",
-    "answer": "Symmetry cancels all forces."
+    "answer": "By Newton's shell theorem, the pulls from all parts of a uniform shell cancel exactly at every point inside it."
   },
   {
     "topic": "gravity",
@@ -718,11 +693,6 @@
     "topic": "gravity",
     "question": "How does a gravity assist maneuver work?",
     "answer": "It transfers momentum from a planet to a spacecraft."
-  },
-  {
-    "topic": "gravity",
-    "question": "What is orbital resonance?",
-    "answer": "Regular gravitational influence between orbiting bodies."
   },
   {
     "topic": "gravity",
@@ -876,11 +846,6 @@
   },
   {
     "topic": "gravity",
-    "question": "What is gravitational clustering?",
-    "answer": "Aggregation of matter due to gravity."
-  },
-  {
-    "topic": "gravity",
     "question": "How does gravity bind stars in galaxies?",
     "answer": "It holds them in stable orbits."
   },
@@ -921,11 +886,6 @@
   },
   {
     "topic": "gravity",
-    "question": "What is an accretion disk?",
-    "answer": "A rotating disk of matter around a massive object."
-  },
-  {
-    "topic": "gravity",
     "question": "How does gravity affect matter in accretion disks?",
     "answer": "It pulls matter inward while conserving angular momentum."
   },
@@ -943,11 +903,6 @@
     "topic": "gravity",
     "question": "What is weak gravitational lensing?",
     "answer": "Slight distortion of light from distant objects."
-  },
-  {
-    "topic": "gravity",
-    "question": "What is gravitational microlensing?",
-    "answer": "Temporary brightening caused by a passing mass."
   },
   {
     "topic": "gravity",
@@ -1011,11 +966,6 @@
   },
   {
     "topic": "gravity",
-    "question": "What is frame dragging?",
-    "answer": "Rotation of a massive body drags spacetime around it."
-  },
-  {
-    "topic": "gravity",
     "question": "What is a Kerr black hole?",
     "answer": "A rotating black hole described by relativity."
   },
@@ -1026,18 +976,8 @@
   },
   {
     "topic": "gravity",
-    "question": "What is Hawking radiation?",
-    "answer": "Radiation emitted by black holes due to quantum effects."
-  },
-  {
-    "topic": "gravity",
     "question": "What is gravitational radiation reaction?",
     "answer": "Energy loss due to emission of gravitational waves."
-  },
-  {
-    "topic": "gravity",
-    "question": "How are gravitational waves detected?",
-    "answer": "By measuring tiny changes in spacetime distance."
   },
   {
     "topic": "gravity",
@@ -1047,12 +987,12 @@
   {
     "topic": "gravity",
     "question": "How many Lagrange points exist in a two-body system?",
-    "answer": "Five."
+    "answer": "Five, labelled L1 to L5. They are positions where a small object can keep a fixed position relative to two larger orbiting bodies."
   },
   {
     "topic": "gravity",
     "question": "Why are Lagrange points useful?",
-    "answer": "Objects can remain stable relative to two larger bodies."
+    "answer": "A spacecraft placed at or orbiting a Lagrange point keeps roughly the same position relative to two bodies, such as the Sun and Earth, using very little fuel. The James Webb Space Telescope orbits near the Sun-Earth L2 point."
   },
   {
     "topic": "gravity",
@@ -1076,11 +1016,6 @@
   },
   {
     "topic": "gravity",
-    "question": "What is the Schwarzschild solution?",
-    "answer": "A solution describing spacetime around a non-rotating mass."
-  },
-  {
-    "topic": "gravity",
     "question": "What is gravitational redshift in relativity?",
     "answer": "Increase in wavelength of light escaping gravity."
   },
@@ -1097,7 +1032,7 @@
   {
     "topic": "gravity",
     "question": "What is surface gravity of a neutron star like?",
-    "answer": "Extremely strong compared to Earth."
+    "answer": "Extremely strong: roughly 200 billion times Earth's surface gravity, because more mass than the Sun is packed into a sphere about 20 km across."
   },
   {
     "topic": "gravity",
@@ -1322,7 +1257,7 @@
   {
     "topic": "gravity",
     "question": "Why do tides happen twice a day?",
-    "answer": "Because of the Moon’s gravitational pull as Earth rotates."
+    "answer": "The Moon's tidal force stretches Earth's oceans into two bulges, one facing the Moon and one on the opposite side. As Earth rotates through both bulges, most places get two high tides about every 24 hours and 50 minutes."
   },
   {
     "topic": "gravity",
@@ -1333,11 +1268,6 @@
     "topic": "gravity",
     "question": "Why can planets pull on each other?",
     "answer": "Because all masses attract each other gravitationally."
-  },
-  {
-    "topic": "gravity",
-    "question": "How does gravity shape the universe?",
-    "answer": "It pulls matter together to form stars, planets, and galaxies."
   },
   {
     "topic": "gravity",
@@ -1363,11 +1293,6 @@
     "topic": "gravity",
     "question": "What happens to objects near a black hole?",
     "answer": "They experience extremely strong gravitational pull."
-  },
-  {
-    "topic": "gravity",
-    "question": "Why can’t anything escape a black hole?",
-    "answer": "Its gravity is stronger than the escape speed of light."
   },
   {
     "topic": "gravity",
@@ -1442,7 +1367,7 @@
   {
     "topic": "gravity",
     "question": "Why does gravity pull equally on all objects?",
-    "answer": "Because acceleration due to gravity is independent of mass."
+    "answer": "It doesn't pull with equal force: heavier objects feel a larger force. But they also have more inertia, so every object gets the same acceleration, about 9.8 m/s² near Earth's surface."
   },
   {
     "topic": "gravity",
@@ -1541,11 +1466,6 @@
   },
   {
     "topic": "gravity",
-    "question": "Why do planets not crash into the Sun?",
-    "answer": "Their sideways motion keeps them orbiting instead of falling directly inward."
-  },
-  {
-    "topic": "gravity",
     "question": "How does gravity make galaxies stay together?",
     "answer": "It pulls stars and matter toward each other."
   },
@@ -1578,11 +1498,6 @@
     "topic": "gravity",
     "question": "How do black holes bend light?",
     "answer": "Their gravity curves spacetime around them."
-  },
-  {
-    "topic": "gravity",
-    "question": "What would happen if Earth stopped orbiting the Sun?",
-    "answer": "It would fall toward the Sun due to gravity."
   },
   {
     "topic": "gravity",
@@ -1698,11 +1613,6 @@
     "topic": "gravity",
     "question": "How does gravity affect clouds and weather?",
     "answer": "It pulls water droplets downward as rain or snow."
-  },
-  {
-    "topic": "gravity",
-    "question": "What would happen if you tried to walk on Jupiter?",
-    "answer": "Its strong gravity would make movement much harder."
   },
   {
     "topic": "gravity",
@@ -2177,7 +2087,7 @@
   {
     "topic": "gravity",
     "question": "Why does gravity help keep Earth’s atmosphere layered?",
-    "answer": "Gravity pulls heavier gases closer to the surface."
+    "answer": "Gravity compresses the air, so the atmosphere is densest at the surface and thins with height. Below about 100 km, winds keep the gases well mixed; only above that do heavier gases settle lower than lighter ones."
   },
   {
     "topic": "gravity",
@@ -2337,7 +2247,7 @@
   {
     "topic": "gravity",
     "question": "Why do stars collapse into black holes?",
-    "answer": "Gravity overwhelms all opposing forces."
+    "answer": "When a very massive star's core runs out of fuel, no pressure, not even from tightly packed neutrons, can resist gravity, so the core collapses into a black hole."
   },
   {
     "topic": "gravity",

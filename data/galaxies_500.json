@@ -1,6 +1,21 @@
 [
   {
     "topic": "galaxies",
+    "question": "What is an active galactic nucleus?",
+    "answer": "An active galactic nucleus is a very bright galactic center powered by a feeding supermassive black hole."
+  },
+  {
+    "topic": "galaxies",
+    "question": "What is a galaxy cluster?",
+    "answer": "A galaxy cluster is a large group of galaxies held together by gravity."
+  },
+  {
+    "topic": "galaxies",
+    "question": "What is a dwarf galaxy?",
+    "answer": "A dwarf galaxy is a small galaxy with far fewer stars than giant galaxies like the Milky Way."
+  },
+  {
+    "topic": "galaxies",
     "question": "What exactly is a galaxy in simple words?",
     "answer": "A galaxy is a huge system of stars, gas, dust, dark matter, and other objects held together by gravity."
   },
@@ -166,11 +181,6 @@
   },
   {
     "topic": "galaxies",
-    "question": "What is a dwarf galaxy?",
-    "answer": "A dwarf galaxy is a small galaxy with far fewer stars than giant galaxies like the Milky Way."
-  },
-  {
-    "topic": "galaxies",
     "question": "Are dwarf galaxies common in the universe?",
     "answer": "Yes. Dwarf galaxies are very common and often orbit larger galaxies."
   },
@@ -183,11 +193,6 @@
     "topic": "galaxies",
     "question": "What are the Magellanic Clouds?",
     "answer": "They are two nearby dwarf galaxies that orbit the Milky Way and are visible from the Southern Hemisphere."
-  },
-  {
-    "topic": "galaxies",
-    "question": "What is a galaxy cluster?",
-    "answer": "A galaxy cluster is a large group of galaxies held together by gravity."
   },
   {
     "topic": "galaxies",
@@ -287,7 +292,7 @@
   {
     "topic": "galaxies",
     "question": "Is the Sun close to the center of the Milky Way?",
-    "answer": "No. The Sun is far from the center in the outer part of the Milky Way’s disk."
+    "answer": "No. The Sun is about 26,000 light-years from the center, roughly halfway out through the Milky Way's disk."
   },
   {
     "topic": "galaxies",
@@ -368,11 +373,6 @@
     "topic": "galaxies",
     "question": "What is an active galaxy?",
     "answer": "An active galaxy is a galaxy with an extremely bright center powered by matter falling into its central black hole."
-  },
-  {
-    "topic": "galaxies",
-    "question": "What is an active galactic nucleus?",
-    "answer": "An active galactic nucleus is a very bright galactic center powered by a feeding supermassive black hole."
   },
   {
     "topic": "galaxies",

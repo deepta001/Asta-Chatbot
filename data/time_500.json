@@ -1,6 +1,16 @@
 [
   {
     "topic": "time",
+    "question": "What is special relativity?",
+    "answer": "Special relativity, published by Einstein in 1905, describes how space and time behave for observers moving at constant velocity. Its effects become large near the speed of light."
+  },
+  {
+    "topic": "time",
+    "question": "What is gravitational time dilation?",
+    "answer": "Gravitational time dilation is the effect, predicted by general relativity, that clocks closer to a massive object tick more slowly than clocks farther away."
+  },
+  {
+    "topic": "time",
     "question": "What is time in physics?",
     "answer": "Time is a dimension used to measure the order and duration of events."
   },
@@ -8,26 +18,6 @@
     "topic": "time",
     "question": "What is relativity?",
     "answer": "Relativity is a theory describing how space, time, and gravity behave."
-  },
-  {
-    "topic": "time",
-    "question": "Who developed the theory of relativity?",
-    "answer": "Relativity was developed by Albert Einstein."
-  },
-  {
-    "topic": "time",
-    "question": "What is special relativity?",
-    "answer": "Special relativity explains motion at constant speeds close to light speed."
-  },
-  {
-    "topic": "time",
-    "question": "What is general relativity?",
-    "answer": "General relativity explains gravity as the bending of spacetime."
-  },
-  {
-    "topic": "time",
-    "question": "What is spacetime?",
-    "answer": "Spacetime is the combined framework of space and time."
   },
   {
     "topic": "time",
@@ -41,11 +31,6 @@
   },
   {
     "topic": "time",
-    "question": "What is time dilation?",
-    "answer": "Time dilation is the slowing of time due to speed or gravity."
-  },
-  {
-    "topic": "time",
     "question": "How does motion affect time?",
     "answer": "Moving clocks run slower compared to stationary ones."
   },
@@ -56,18 +41,8 @@
   },
   {
     "topic": "time",
-    "question": "What is gravitational time dilation?",
-    "answer": "It is the slowing of time near massive objects."
-  },
-  {
-    "topic": "time",
     "question": "What is Lorentz contraction?",
     "answer": "Lorentz contraction is the shortening of objects moving near light speed."
-  },
-  {
-    "topic": "time",
-    "question": "What is a light-year?",
-    "answer": "A light-year is the distance light travels in one year."
   },
   {
     "topic": "time",
@@ -156,11 +131,6 @@
   },
   {
     "topic": "time",
-    "question": "What is a black hole?",
-    "answer": "A black hole is a region where gravity is extremely strong."
-  },
-  {
-    "topic": "time",
     "question": "How does time behave near a black hole?",
     "answer": "Time slows greatly near a black hole."
   },
@@ -173,11 +143,6 @@
     "topic": "time",
     "question": "What is the curvature of spacetime?",
     "answer": "It is the bending of spacetime caused by mass and energy."
-  },
-  {
-    "topic": "time",
-    "question": "What are gravitational waves?",
-    "answer": "They are ripples in spacetime caused by massive accelerating objects."
   },
   {
     "topic": "time",
@@ -246,11 +211,6 @@
   },
   {
     "topic": "time",
-    "question": "What is gravitational lensing?",
-    "answer": "It is the bending of light by gravity."
-  },
-  {
-    "topic": "time",
     "question": "Why is relativity important in modern physics?",
     "answer": "It accurately explains gravity, motion, and the structure of spacetime."
   },
@@ -311,18 +271,8 @@
   },
   {
     "topic": "time",
-    "question": "What is the Schwarzschild radius?",
-    "answer": "It is the radius defining a black hole's event horizon."
-  },
-  {
-    "topic": "time",
     "question": "How does relativity explain Mercury's orbit?",
     "answer": "Curved spacetime accounts for Mercury's orbital shift."
-  },
-  {
-    "topic": "time",
-    "question": "What is frame dragging?",
-    "answer": "It is the twisting of spacetime by rotating massive objects."
   },
   {
     "topic": "time",
@@ -333,11 +283,6 @@
     "topic": "time",
     "question": "Why do astronauts age slightly differently from people on Earth?",
     "answer": "Their speed and gravity conditions alter time flow."
-  },
-  {
-    "topic": "time",
-    "question": "What is cosmic time?",
-    "answer": "It is a time scale used to describe the universe's evolution."
   },
   {
     "topic": "time",
@@ -443,11 +388,6 @@
     "topic": "time",
     "question": "How does relativity affect satellite communication?",
     "answer": "Satellite timing systems must correct for relativistic effects."
-  },
-  {
-    "topic": "time",
-    "question": "What is the Einstein field equation?",
-    "answer": "It relates spacetime curvature to mass and energy."
   },
   {
     "topic": "time",
@@ -711,11 +651,6 @@
   },
   {
     "topic": "time",
-    "question": "What is a gravitational singularity?",
-    "answer": "It is a region where known physics breaks down."
-  },
-  {
-    "topic": "time",
     "question": "Why does light follow curved paths near massive bodies?",
     "answer": "Light travels through curved spacetime."
   },
@@ -853,11 +788,6 @@
     "topic": "time",
     "question": "What is spacetime expansion?",
     "answer": "It is the increasing scale of the universe over time."
-  },
-  {
-    "topic": "time",
-    "question": "Why do distant galaxies appear redshifted?",
-    "answer": "The expansion of spacetime stretches their emitted light."
   },
   {
     "topic": "time",
@@ -1008,11 +938,6 @@
     "topic": "time",
     "question": "How does relativity explain gravitational attraction?",
     "answer": "Objects move toward each other because spacetime is curved."
-  },
-  {
-    "topic": "time",
-    "question": "Why does time slow down near a black hole?",
-    "answer": "Extreme gravity stretches the flow of time."
   },
   {
     "topic": "time",
@@ -1492,7 +1417,7 @@
   {
     "topic": "time",
     "question": "What if light traveled infinitely fast?",
-    "answer": "Cause-and-effect relationships in physics would break down."
+    "answer": "Physics would work like Newton's version: there would be no time dilation or length contraction, and we would see distant objects as they are right now rather than as they were in the past."
   },
   {
     "topic": "time",
@@ -1528,11 +1453,6 @@
     "topic": "time",
     "question": "Could someone accidentally travel into the future?",
     "answer": "Extreme speed or gravity could cause future time jumps."
-  },
-  {
-    "topic": "time",
-    "question": "Why do black holes affect both space and time together?",
-    "answer": "Massive gravity curves the entire spacetime structure."
   },
   {
     "topic": "time",

@@ -1,0 +1,1742 @@
+[
+  {
+    "question": "What is a black hole?",
+    "copies": 5,
+    "answers_differ": true,
+    "kept_answer": "A black hole is a region of space where gravity is so strong that nothing can escape from it.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "A black hole is a region of space where gravity is so strong that nothing can escape from it."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "A black hole is a region where gravity is so strong that not even light can escape."
+      },
+      {
+        "topic": "gravity",
+        "answer": "A region with extremely strong gravity."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A black hole is a region where gravity is strong enough that light cannot escape."
+      },
+      {
+        "topic": "time",
+        "answer": "A black hole is a region where gravity is extremely strong."
+      }
+    ]
+  },
+  {
+    "question": "What is the event horizon of a black hole?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "The event horizon is the boundary beyond which nothing can escape a black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "The event horizon is the boundary beyond which nothing can escape a black hole."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "The event horizon is the boundary beyond which nothing can escape a black hole."
+      }
+    ]
+  },
+  {
+    "question": "What is a supermassive black hole?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A supermassive black hole is an extremely large black hole found at the center of galaxies.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "A supermassive black hole is an extremely large black hole found at the center of galaxies."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "A supermassive black hole is an enormous black hole found at the center of many galaxies."
+      }
+    ]
+  },
+  {
+    "question": "What is an accretion disk?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "An accretion disk is a rotating disk of gas and dust surrounding a black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "An accretion disk is a rotating disk of gas and dust surrounding a black hole."
+      },
+      {
+        "topic": "gravity",
+        "answer": "A rotating disk of matter around a massive object."
+      }
+    ]
+  },
+  {
+    "question": "What are gravitational waves?",
+    "copies": 4,
+    "answers_differ": true,
+    "kept_answer": "Gravitational waves are ripples in spacetime caused by accelerating massive objects.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Gravitational waves are ripples in spacetime caused by accelerating massive objects."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Gravitational waves are ripples in spacetime caused by accelerating massive objects."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Ripples in spacetime caused by massive motion."
+      },
+      {
+        "topic": "time",
+        "answer": "They are ripples in spacetime caused by massive accelerating objects."
+      }
+    ]
+  },
+  {
+    "question": "Can black holes evaporate over time?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "According to theory, black holes can slowly lose mass through Hawking radiation.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Yes, black holes may slowly lose energy through Hawking radiation."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "According to theory, black holes can slowly lose mass through Hawking radiation."
+      }
+    ]
+  },
+  {
+    "question": "What is Hawking radiation?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "Hawking radiation is theoretical radiation emitted due to quantum effects near a black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Hawking radiation is theoretical radiation emitted due to quantum effects near a black hole."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Hawking radiation is theoretical radiation emitted by black holes due to quantum effects."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Radiation emitted by black holes due to quantum effects."
+      }
+    ]
+  },
+  {
+    "question": "What is the Schwarzschild radius?",
+    "copies": 4,
+    "answers_differ": true,
+    "kept_answer": "The Schwarzschild radius is the distance from a mass where escape velocity equals the speed of light.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "The Schwarzschild radius is the radius defining the event horizon of a non-rotating black hole."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "The Schwarzschild radius is the distance from a mass where escape velocity equals the speed of light."
+      },
+      {
+        "topic": "gravity",
+        "answer": "The radius where escape velocity equals light speed."
+      },
+      {
+        "topic": "time",
+        "answer": "It is the radius defining a black hole's event horizon."
+      }
+    ]
+  },
+  {
+    "question": "What is time dilation?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "Time dilation is the slowing of time for objects moving very fast or near strong gravity.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Time dilation is the slowing of time in strong gravitational fields or at high speeds."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Time dilation is the slowing of time for objects moving very fast or near strong gravity."
+      },
+      {
+        "topic": "time",
+        "answer": "Time dilation is the slowing of time due to speed or gravity."
+      }
+    ]
+  },
+  {
+    "question": "What is spacetime?",
+    "copies": 4,
+    "answers_differ": true,
+    "kept_answer": "Spacetime is the combined framework of space and time described by relativity.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Spacetime is the combined framework of space and time used in relativity."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Spacetime is the combined framework of space and time described by relativity."
+      },
+      {
+        "topic": "gravity",
+        "answer": "A four-dimensional combination of space and time."
+      },
+      {
+        "topic": "time",
+        "answer": "Spacetime is the combined framework of space and time."
+      }
+    ]
+  },
+  {
+    "question": "What is an active galactic nucleus?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "An active galactic nucleus is a very bright galactic center powered by a feeding supermassive black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "An active galactic nucleus is a bright galactic center powered by a supermassive black hole."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "An active galactic nucleus is a compact region at a galaxy's center emitting enormous energy."
+      },
+      {
+        "topic": "galaxies",
+        "answer": "An active galactic nucleus is a very bright galactic center powered by a feeding supermassive black hole."
+      }
+    ]
+  },
+  {
+    "question": "What is gravitational lensing?",
+    "copies": 4,
+    "answers_differ": true,
+    "kept_answer": "Gravitational lensing is the bending of light by massive objects like black holes.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Gravitational lensing is the bending of light by massive objects like black holes."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Gravitational lensing occurs when gravity bends light from distant objects."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Bending of light by gravity."
+      },
+      {
+        "topic": "time",
+        "answer": "It is the bending of light by gravity."
+      }
+    ]
+  },
+  {
+    "question": "What is frame dragging?",
+    "copies": 4,
+    "answers_differ": true,
+    "kept_answer": "Frame dragging is the twisting of spacetime caused by a rotating massive object.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Frame dragging is the twisting of spacetime caused by a rotating massive object."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Frame dragging is the twisting of spacetime caused by a rotating massive object."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Rotation of a massive body drags spacetime around it."
+      },
+      {
+        "topic": "time",
+        "answer": "It is the twisting of spacetime by rotating massive objects."
+      }
+    ]
+  },
+  {
+    "question": "What is a quasar?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A quasar is an extremely bright active galactic nucleus powered by a supermassive black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "A quasar is a highly luminous object powered by a supermassive black hole."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "A quasar is an extremely bright active galactic nucleus powered by a supermassive black hole."
+      }
+    ]
+  },
+  {
+    "question": "What is the Chandrasekhar limit?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "It is the maximum mass a white dwarf can have before collapsing further.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "It is the maximum mass a white dwarf can have before collapsing."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "The Chandrasekhar limit is the maximum stable mass of a white dwarf."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "It is the maximum mass a white dwarf can have before collapsing further."
+      }
+    ]
+  },
+  {
+    "question": "What is a tidal disruption event?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A tidal disruption event occurs when a star is torn apart by a black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "It occurs when a black hole tears apart a nearby star."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "A tidal disruption event occurs when a star is torn apart by a black hole."
+      }
+    ]
+  },
+  {
+    "question": "What is a gravitational singularity?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "It is a point where gravity and density become extremely large.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "It is a point where gravity and density become extremely large."
+      },
+      {
+        "topic": "time",
+        "answer": "It is a region where known physics breaks down."
+      }
+    ]
+  },
+  {
+    "question": "What is the Tolman–Oppenheimer–Volkoff limit?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "It is the maximum mass a neutron star can support before collapsing further.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "It is the maximum mass a neutron star can support before collapsing further."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "It is the maximum mass a neutron star can have before collapsing further."
+      }
+    ]
+  },
+  {
+    "question": "Why can't anything escape a black hole?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Gravity inside the event horizon becomes stronger than the speed needed to escape.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Gravity inside the event horizon becomes stronger than the speed needed to escape."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Its gravity is stronger than the escape speed of light."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if you fell into a black hole?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "You would experience extreme stretching from tidal forces near the black hole.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "You would experience extreme stretching from tidal forces near the black hole."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Extreme gravity would likely stretch and destroy you."
+      }
+    ]
+  },
+  {
+    "question": "Why does time slow down near a black hole?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Strong gravity affects the flow of time according to relativity.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Strong gravity affects the flow of time according to relativity."
+      },
+      {
+        "topic": "time",
+        "answer": "Extreme gravity stretches the flow of time."
+      }
+    ]
+  },
+  {
+    "question": "Could a black hole swallow an entire galaxy?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Black holes influence galaxies strongly but do not simply consume everything quickly.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "No, objects far away can continue orbiting safely."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Black holes influence galaxies strongly but do not simply consume everything quickly."
+      }
+    ]
+  },
+  {
+    "question": "What would the sky look like near a black hole?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Stars and galaxies would appear warped and bent by gravity.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Stars and galaxies would appear warped and bent by gravity."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Gravity would heavily distort light and background stars."
+      }
+    ]
+  },
+  {
+    "question": "How do scientists take pictures of black holes?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "They image the glowing matter surrounding the event horizon.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "They image the glowing matter surrounding the event horizon."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "They combine data from many radio telescopes across Earth."
+      }
+    ]
+  },
+  {
+    "question": "Could there be black holes smaller than atoms?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Some theories predict tiny black holes may have formed early in the universe.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Some speculative theories allow extremely tiny black holes."
+      },
+      {
+        "topic": "cosmology",
+        "answer": "Some theories predict tiny black holes may have formed early in the universe."
+      }
+    ]
+  },
+  {
+    "question": "Why do black holes affect both space and time together?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Relativity treats space and time as connected spacetime.",
+    "all_versions": [
+      {
+        "topic": "black_holes",
+        "answer": "Relativity treats space and time as connected spacetime."
+      },
+      {
+        "topic": "time",
+        "answer": "Massive gravity curves the entire spacetime structure."
+      }
+    ]
+  },
+  {
+    "question": "What is the cosmic microwave background?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "The cosmic microwave background is faint radiation left over from the early universe.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The cosmic microwave background is faint radiation left over from the early universe."
+      },
+      {
+        "topic": "light",
+        "answer": "It is faint microwave radiation left over from the early universe."
+      }
+    ]
+  },
+  {
+    "question": "What is a galaxy?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A galaxy is a massive collection of stars, gas, dust, and dark matter bound by gravity.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A galaxy is a massive collection of stars, gas, dust, and dark matter bound by gravity."
+      },
+      {
+        "topic": "light",
+        "answer": "A galaxy is a massive system of stars, gas, dust, and dark matter."
+      }
+    ]
+  },
+  {
+    "question": "What galaxy contains our Solar System?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Our Solar System is located in the Milky Way galaxy.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Our Solar System is located in the Milky Way galaxy."
+      },
+      {
+        "topic": "light",
+        "answer": "Our solar system is in the Milky Way galaxy."
+      }
+    ]
+  },
+  {
+    "question": "What is a galaxy cluster?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A galaxy cluster is a large group of galaxies held together by gravity.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A galaxy cluster is a group of galaxies held together by gravity."
+      },
+      {
+        "topic": "galaxies",
+        "answer": "A galaxy cluster is a large group of galaxies held together by gravity."
+      }
+    ]
+  },
+  {
+    "question": "What is general relativity?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "General relativity describes gravity as the curvature of spacetime caused by mass and energy.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "General relativity describes gravity as the curvature of spacetime caused by mass and energy."
+      },
+      {
+        "topic": "time",
+        "answer": "General relativity explains gravity as the bending of spacetime."
+      }
+    ]
+  },
+  {
+    "question": "What is a neutron star?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A neutron star is an extremely dense remnant composed mostly of neutrons.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A neutron star is the dense remnant left after a massive star explodes."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A neutron star is an extremely dense remnant composed mostly of neutrons."
+      }
+    ]
+  },
+  {
+    "question": "What is a supernova?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "A supernova is a powerful explosion marking the death of certain stars.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A supernova is a powerful explosion marking the death of certain stars."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A supernova is a powerful explosion marking the death of certain stars."
+      }
+    ]
+  },
+  {
+    "question": "What is redshift?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Redshift is the stretching of light toward longer wavelengths as objects move away.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Redshift is the stretching of light toward longer wavelengths as objects move away."
+      },
+      {
+        "topic": "light",
+        "answer": "Redshift is the stretching of light toward longer wavelengths."
+      }
+    ]
+  },
+  {
+    "question": "Why do distant galaxies appear redshifted?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "They appear redshifted because the expansion of space stretches their light.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "They appear redshifted because the expansion of space stretches their light."
+      },
+      {
+        "topic": "time",
+        "answer": "The expansion of spacetime stretches their emitted light."
+      }
+    ]
+  },
+  {
+    "question": "What is a light-year?",
+    "copies": 4,
+    "answers_differ": false,
+    "kept_answer": "A light-year is the distance light travels in one year.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A light-year is the distance light travels in one year."
+      },
+      {
+        "topic": "light",
+        "answer": "A light-year is the distance light travels in one year."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A light-year is the distance light travels in one year."
+      },
+      {
+        "topic": "time",
+        "answer": "A light-year is the distance light travels in one year."
+      }
+    ]
+  },
+  {
+    "question": "What is a dwarf galaxy?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A dwarf galaxy is a small galaxy with far fewer stars than giant galaxies like the Milky Way.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A dwarf galaxy is a small galaxy containing fewer stars than large galaxies."
+      },
+      {
+        "topic": "galaxies",
+        "answer": "A dwarf galaxy is a small galaxy with far fewer stars than giant galaxies like the Milky Way."
+      }
+    ]
+  },
+  {
+    "question": "How are gravitational waves detected?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "They are detected using highly sensitive laser interferometers.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "They are detected using highly sensitive laser interferometers."
+      },
+      {
+        "topic": "gravity",
+        "answer": "By measuring tiny changes in spacetime distance."
+      }
+    ]
+  },
+  {
+    "question": "What is a white dwarf?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A white dwarf is a dense stellar remnant left after a low-mass star dies.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A white dwarf is the dense remnant of a low- or medium-mass star."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A white dwarf is a dense stellar remnant left after a low-mass star dies."
+      }
+    ]
+  },
+  {
+    "question": "What is stellar evolution?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Stellar evolution is the process of changes a star undergoes during its lifetime.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Stellar evolution is the life cycle of a star from formation to its final state."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Stellar evolution is the process of changes a star undergoes during its lifetime."
+      }
+    ]
+  },
+  {
+    "question": "What is a nebula?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "A nebula is a large cloud of gas and dust in space.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A nebula is a large cloud of gas and dust in space."
+      },
+      {
+        "topic": "light",
+        "answer": "A nebula is a cloud of gas and dust in space."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A nebula is a large cloud of gas and dust in space."
+      }
+    ]
+  },
+  {
+    "question": "What is an exoplanet?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "An exoplanet is a planet that orbits a star outside our Solar System.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "An exoplanet is a planet orbiting a star outside our Solar System."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "An exoplanet is a planet that orbits a star outside our Solar System."
+      }
+    ]
+  },
+  {
+    "question": "What is the habitable zone around a star?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "The habitable zone is the region where liquid water could exist on a planet's surface.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The habitable zone is the region where liquid water could exist on a planet's surface."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "It is the region where temperatures may allow liquid water to exist."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "It is the region where temperatures may allow liquid water on planets."
+      }
+    ]
+  },
+  {
+    "question": "What is cosmic time?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Cosmic time is a standard time measurement used in cosmology since the Big Bang.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Cosmic time is a standard time measurement used in cosmology since the Big Bang."
+      },
+      {
+        "topic": "time",
+        "answer": "It is a time scale used to describe the universe's evolution."
+      }
+    ]
+  },
+  {
+    "question": "What is a parsec?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A parsec is an astronomical unit of distance equal to about 3.26 light-years.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A parsec is an astronomical unit of distance equal to about 3.26 light-years."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A parsec is a distance unit equal to about 3.26 light-years."
+      }
+    ]
+  },
+  {
+    "question": "What is a magnetar?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "A magnetar is a neutron star with an extremely powerful magnetic field.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A magnetar is a neutron star with an extremely powerful magnetic field."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A magnetar is a neutron star with an extremely powerful magnetic field."
+      }
+    ]
+  },
+  {
+    "question": "What is a pulsar?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A pulsar is a rapidly rotating neutron star emitting beams of radiation.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A pulsar is a rotating neutron star that emits beams of radiation."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A pulsar is a rapidly rotating neutron star emitting beams of radiation."
+      }
+    ]
+  },
+  {
+    "question": "What is a rogue planet?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "A rogue planet is a planet that does not orbit a star.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A rogue planet is a planet that does not orbit a star."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "A rogue planet is a planet that does not orbit a star."
+      }
+    ]
+  },
+  {
+    "question": "What is a Type Ia supernova?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A Type Ia supernova is an exploding white dwarf used to measure cosmic distances.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A Type Ia supernova is an exploding white dwarf used to measure cosmic distances."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "It is a supernova caused by a white dwarf gaining too much mass."
+      }
+    ]
+  },
+  {
+    "question": "What is escape velocity?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Escape velocity is the speed needed to break free from a body's gravity.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Escape velocity is the speed needed to break free from a body's gravity."
+      },
+      {
+        "topic": "gravity",
+        "answer": "The minimum speed needed to leave a gravitational field."
+      }
+    ]
+  },
+  {
+    "question": "What is the asteroid belt?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "The asteroid belt is a region between Mars and Jupiter filled with many asteroids.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The asteroid belt is a region between Mars and Jupiter filled with many asteroids."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "The asteroid belt is a region of rocky objects between Mars and Jupiter."
+      }
+    ]
+  },
+  {
+    "question": "What is a brown dwarf?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "A brown dwarf is an object too large to be a planet but too small to sustain normal starlight fusion.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A brown dwarf is an object too large to be a planet but too small to sustain normal starlight fusion."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "A brown dwarf is an object larger than planets but too small to sustain normal starlight fusion."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A brown dwarf is an object too small to sustain normal hydrogen fusion."
+      }
+    ]
+  },
+  {
+    "question": "What is nuclear fusion?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Nuclear fusion is the process where light atomic nuclei combine and release energy.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Nuclear fusion is the process where light atomic nuclei combine and release energy."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Nuclear fusion is the combining of light atomic nuclei to release energy."
+      }
+    ]
+  },
+  {
+    "question": "What is a blue giant star?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A blue giant is a very hot luminous star with high mass.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A blue giant is a very hot and massive star."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A blue giant is a very hot luminous star with high mass."
+      }
+    ]
+  },
+  {
+    "question": "What is stellar nucleosynthesis?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Stellar nucleosynthesis is the creation of heavier elements inside stars.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Stellar nucleosynthesis is the creation of heavier elements inside stars."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "It is the creation of new elements inside stars through fusion."
+      }
+    ]
+  },
+  {
+    "question": "What is special relativity?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Special relativity explains motion at constant speeds close to light speed.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Special relativity describes how space and time behave at high speeds."
+      },
+      {
+        "topic": "time",
+        "answer": "Special relativity explains motion at constant speeds close to light speed."
+      }
+    ]
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Albert Einstein developed the theory of relativity.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Albert Einstein developed the theory of relativity."
+      },
+      {
+        "topic": "time",
+        "answer": "Relativity was developed by Albert Einstein."
+      }
+    ]
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "The speed of light in a vacuum is about 300,000 kilometers per second.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The speed of light in a vacuum is about 300,000 kilometers per second."
+      },
+      {
+        "topic": "light",
+        "answer": "Light travels at about 299,792 kilometers per second in a vacuum."
+      }
+    ]
+  },
+  {
+    "question": "What is stellar parallax?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Stellar parallax is the apparent shift of a star's position due to Earth's orbit.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Stellar parallax is the apparent shift of a nearby star due to Earth's orbit."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Stellar parallax is the apparent shift of a star's position due to Earth's orbit."
+      }
+    ]
+  },
+  {
+    "question": "What is luminosity in astronomy?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Luminosity is the total energy a celestial object emits per unit time.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Luminosity is the total energy a celestial object emits per unit time."
+      },
+      {
+        "topic": "light",
+        "answer": "Luminosity is the total energy a star emits each second."
+      }
+    ]
+  },
+  {
+    "question": "What is apparent magnitude?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Apparent magnitude measures how bright an object appears from Earth.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Apparent magnitude measures how bright an object appears from Earth."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Apparent magnitude describes how bright a star appears from Earth."
+      }
+    ]
+  },
+  {
+    "question": "What is absolute magnitude?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "Absolute magnitude measures an object's true brightness at a standard distance.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Absolute magnitude measures an object's true brightness at a standard distance."
+      },
+      {
+        "topic": "light",
+        "answer": "Absolute magnitude measures intrinsic brightness at a standard distance."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Absolute magnitude measures a star's true brightness at a standard distance."
+      }
+    ]
+  },
+  {
+    "question": "What is the interstellar medium?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "The interstellar medium is the gas and dust found between stars.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The interstellar medium is the gas and dust found between stars."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "The interstellar medium is the gas and dust found between stars."
+      }
+    ]
+  },
+  {
+    "question": "What is cosmic dust?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Cosmic dust consists of tiny solid particles floating through space.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Cosmic dust consists of tiny solid particles floating through space."
+      },
+      {
+        "topic": "light",
+        "answer": "Cosmic dust consists of tiny particles found in space."
+      }
+    ]
+  },
+  {
+    "question": "What type of star is the Sun?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "The Sun is a G-type main-sequence star.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The Sun is a G-type main-sequence star."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "The Sun is a G-type main sequence star."
+      }
+    ]
+  },
+  {
+    "question": "What is the Kuiper Belt?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "The Kuiper Belt is a region of icy objects beyond Neptune.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The Kuiper Belt is a region of icy objects beyond Neptune."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "The Kuiper Belt is a region of icy bodies beyond Neptune."
+      }
+    ]
+  },
+  {
+    "question": "What is a dwarf planet?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A dwarf planet is a nearly spherical object orbiting a star that has not cleared its orbit.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A dwarf planet is a nearly spherical object orbiting a star that has not cleared its orbit."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "A dwarf planet orbits the Sun but has not cleared its orbital neighborhood."
+      }
+    ]
+  },
+  {
+    "question": "What is the heliosphere?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "The heliosphere is the bubble-like region influenced by the Sun's solar wind.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The heliosphere is the bubble-like region shaped by the solar wind."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "The heliosphere is the bubble-like region influenced by the Sun's solar wind."
+      }
+    ]
+  },
+  {
+    "question": "What is a lunar eclipse?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "A lunar eclipse occurs when Earth blocks sunlight from reaching the Moon.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A lunar eclipse occurs when Earth blocks sunlight from reaching the Moon."
+      },
+      {
+        "topic": "light",
+        "answer": "A lunar eclipse occurs when Earth blocks sunlight from reaching the Moon."
+      }
+    ]
+  },
+  {
+    "question": "What is a solar eclipse?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A solar eclipse occurs when the Moon blocks sunlight from reaching Earth.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A solar eclipse occurs when the Moon blocks the Sun from view on Earth."
+      },
+      {
+        "topic": "light",
+        "answer": "A solar eclipse occurs when the Moon blocks sunlight from reaching Earth."
+      }
+    ]
+  },
+  {
+    "question": "What is orbital resonance?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Orbital resonance occurs when orbiting bodies exert regular gravitational influence on each other.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Orbital resonance occurs when orbiting bodies exert regular gravitational influence on each other."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Regular gravitational influence between orbiting bodies."
+      }
+    ]
+  },
+  {
+    "question": "What is the Schwarzschild solution?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "The Schwarzschild solution describes spacetime around a non-rotating spherical mass.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The Schwarzschild solution describes spacetime around a non-rotating spherical mass."
+      },
+      {
+        "topic": "gravity",
+        "answer": "A solution describing spacetime around a non-rotating mass."
+      }
+    ]
+  },
+  {
+    "question": "What is the Roche limit?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "The Roche limit is the distance where tidal forces can break apart an object.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The Roche limit is the distance where tidal forces can break apart an object."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "The Roche limit is the distance where tidal forces can break apart an object."
+      }
+    ]
+  },
+  {
+    "question": "What is a binary star system?",
+    "copies": 2,
+    "answers_differ": false,
+    "kept_answer": "A binary star system contains two stars orbiting each other.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A binary star system contains two stars orbiting each other."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A binary star system contains two stars orbiting each other."
+      }
+    ]
+  },
+  {
+    "question": "What is a globular cluster?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "A globular cluster is a dense spherical collection of old stars.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "A globular cluster is a dense spherical collection of old stars."
+      },
+      {
+        "topic": "light",
+        "answer": "A globular cluster is a dense spherical group of old stars."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A globular cluster is a dense spherical collection of old stars."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth stopped orbiting the Sun?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Earth would move off into space due to inertia.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Earth would move off into space due to inertia."
+      },
+      {
+        "topic": "gravity",
+        "answer": "It would fall toward the Sun due to gravity."
+      }
+    ]
+  },
+  {
+    "question": "Why do planets not crash into the Sun?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Their sideways motion keeps them orbiting instead of falling directly inward.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Their sideways motion balances the Sun's gravitational pull."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Their sideways motion keeps them orbiting instead of falling directly inward."
+      }
+    ]
+  },
+  {
+    "question": "How do planets begin forming around young stars?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Dust and gas slowly stick together and grow through gravity.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Dust and gas gradually clump together through gravity."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Dust and gas slowly stick together and grow through gravity."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if you tried to walk on Jupiter?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Its strong gravity would make movement much harder.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Jupiter has no solid surface to stand on."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Its strong gravity would make movement much harder."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had rings like Saturn?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "Bright rings would dominate the sky and affect nighttime brightness.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The rings would create spectacular patterns visible in the sky."
+      },
+      {
+        "topic": "light",
+        "answer": "The sky would show bright reflective bands overhead."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Bright rings would dominate the sky and affect nighttime brightness."
+      }
+    ]
+  },
+  {
+    "question": "How does gravity shape the universe?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "It pulls matter together to form stars, planets, and galaxies.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Gravity forms stars, galaxies, and large cosmic structures."
+      },
+      {
+        "topic": "gravity",
+        "answer": "It pulls matter together to form stars, planets, and galaxies."
+      }
+    ]
+  },
+  {
+    "question": "How do planets avoid colliding with each other constantly?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Stable orbits and vast distances usually keep planets separated.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Stable orbits and vast distances usually keep planets separated."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Stable orbital paths keep planets separated over long periods."
+      }
+    ]
+  },
+  {
+    "question": "How do scientists know what stars are made of?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "They study the specific wavelengths of light stars emit.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "They study the specific wavelengths of light stars emit."
+      },
+      {
+        "topic": "light",
+        "answer": "They study the patterns in starlight spectra."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "They study the patterns in starlight spectra."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had Saturn's rings?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Large bright rings would dominate views of the sky.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "The rings would cast shadows and dominate the sky."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Large bright rings would dominate views of the sky."
+      }
+    ]
+  },
+  {
+    "question": "Why are giant planets mostly made of gas?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Their strong gravity captured large amounts of light elements.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Their strong gravity captured large amounts of light elements."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "They formed where light gases and ices were abundant."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth rotated once every hour?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Powerful winds and severe environmental changes would occur.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Powerful winds and severe environmental changes would occur."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Extreme winds and major climate changes would likely occur."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had Jupiter's gravity?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Humans and structures would weigh much more and struggle to function.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Humans and structures would weigh much more and struggle to function."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Human movement and atmospheric conditions would become extreme."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had a much thicker atmosphere?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Pressure, temperature, and weather could become far more intense.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Pressure, temperature, and weather could become far more intense."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Pressure, climate, and temperatures would change greatly."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had no seasons?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Climate patterns and ecosystems would become very different.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Climate patterns and ecosystems would become very different."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Climate patterns and ecosystems would change significantly."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth orbited a pulsar?",
+    "copies": 3,
+    "answers_differ": true,
+    "kept_answer": "Intense radiation would create an extremely hostile environment.",
+    "all_versions": [
+      {
+        "topic": "cosmology",
+        "answer": "Extreme radiation would likely make survival impossible."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Intense radiation would create an extremely hostile environment."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Strong radiation would make conditions extremely hostile."
+      }
+    ]
+  },
+  {
+    "question": "What is gravitational time dilation?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "It is the slowing of time near massive objects.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "Time slows in strong gravity."
+      },
+      {
+        "topic": "time",
+        "answer": "It is the slowing of time near massive objects."
+      }
+    ]
+  },
+  {
+    "question": "What is gravitational collapse?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Gravitational collapse occurs when gravity causes matter to contract inward.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "Matter falling inward under gravity."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "Gravitational collapse occurs when gravity causes matter to contract inward."
+      }
+    ]
+  },
+  {
+    "question": "What is gravitational clustering?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Aggregation of matter due to gravity.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "Grouping of matter due to gravity."
+      },
+      {
+        "topic": "gravity",
+        "answer": "Aggregation of matter due to gravity."
+      }
+    ]
+  },
+  {
+    "question": "What is gravitational microlensing?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "It detects planets using the bending of light caused by gravity.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "Temporary brightening caused by a passing mass."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "It detects planets using the bending of light caused by gravity."
+      }
+    ]
+  },
+  {
+    "question": "What is the Einstein field equation?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "It relates spacetime curvature to energy and mass.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "It relates spacetime curvature to energy and mass."
+      },
+      {
+        "topic": "time",
+        "answer": "It relates spacetime curvature to mass and energy."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had no Moon?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Tides would be weaker and Earth’s rotation could be less stable.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "Tides would be weaker and Earth’s rotation could be less stable."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Tides and long-term planetary stability would change greatly."
+      }
+    ]
+  },
+  {
+    "question": "Why do planets closer to the Sun move faster?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Stronger solar gravity requires faster orbital speeds.",
+    "all_versions": [
+      {
+        "topic": "gravity",
+        "answer": "Stronger solar gravity requires faster orbital speeds."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Stronger gravity near the Sun increases orbital speed."
+      }
+    ]
+  },
+  {
+    "question": "What is a star cluster?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A star cluster is a group of stars held together by gravity.",
+    "all_versions": [
+      {
+        "topic": "light",
+        "answer": "A star cluster is a group of stars bound by gravity."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A star cluster is a group of stars held together by gravity."
+      }
+    ]
+  },
+  {
+    "question": "What is an open cluster?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "An open cluster is a loosely bound group of relatively young stars.",
+    "all_versions": [
+      {
+        "topic": "light",
+        "answer": "An open cluster is a loosely bound group of young stars."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "An open cluster is a loosely bound group of relatively young stars."
+      }
+    ]
+  },
+  {
+    "question": "What would happen if Earth had two suns?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Seasons, temperatures, and orbital dynamics would become more complex.",
+    "all_versions": [
+      {
+        "topic": "light",
+        "answer": "The sky, climate, and shadows would be very different."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Seasons, temperatures, and orbital dynamics would become more complex."
+      }
+    ]
+  },
+  {
+    "question": "Why do some exoplanets orbit extremely close to their stars?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "Migration and gravitational interactions may move them inward.",
+    "all_versions": [
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Orbital migration can move planets inward after formation."
+      },
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "Migration and gravitational interactions may move them inward."
+      }
+    ]
+  },
+  {
+    "question": "What is a planetary nebula?",
+    "copies": 2,
+    "answers_differ": true,
+    "kept_answer": "A planetary nebula is an expanding shell of gas expelled by a dying low-mass star.",
+    "all_versions": [
+      {
+        "topic": "planets_and_exoplanets",
+        "answer": "A planetary nebula is an expanding shell of gas from a dying star."
+      },
+      {
+        "topic": "stars_stellar_evolution",
+        "answer": "A planetary nebula is an expanding shell of gas expelled by a dying low-mass star."
+      }
+    ]
+  }
+]

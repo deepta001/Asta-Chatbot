@@ -1,6 +1,46 @@
 [
   {
     "topic": "planets_and_exoplanets",
+    "question": "What is an exoplanet?",
+    "answer": "An exoplanet is a planet that orbits a star outside our Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the heliosphere?",
+    "answer": "The heliosphere is the bubble-like region influenced by the Sun's solar wind."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets begin forming around young stars?",
+    "answer": "Dust and gas slowly stick together and grow through gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had rings like Saturn?",
+    "answer": "Bright rings would dominate the sky and affect nighttime brightness."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had Saturn's rings?",
+    "answer": "Large bright rings would dominate views of the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited a pulsar?",
+    "answer": "Intense radiation would create an extremely hostile environment."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is gravitational microlensing?",
+    "answer": "Microlensing is the temporary brightening of a background star when a foreground star or planet passes in front of it and its gravity bends the light. Astronomers use it to detect planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had two suns?",
+    "answer": "Seasons, temperatures, and orbital dynamics would become more complex."
+  },
+  {
+    "topic": "planets_and_exoplanets",
     "question": "What is a planet?",
     "answer": "A planet is a large celestial body that orbits a star and does not produce its own light."
   },
@@ -18,11 +58,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Which planet is the largest in the Solar System?",
     "answer": "Jupiter is the largest planet in the Solar System."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What is an exoplanet?",
-    "answer": "An exoplanet is a planet that orbits a star outside our Solar System."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -81,11 +116,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What is the habitable zone around a star?",
-    "answer": "It is the region where temperatures may allow liquid water to exist."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "Which planet is called the Red Planet?",
     "answer": "Mars is called the Red Planet."
   },
@@ -121,11 +151,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What is a dwarf planet?",
-    "answer": "A dwarf planet orbits the Sun but has not cleared its orbital neighborhood."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "Why is Pluto classified as a dwarf planet?",
     "answer": "Pluto has not cleared other objects from its orbital region."
   },
@@ -143,11 +168,6 @@
     "topic": "planets_and_exoplanets",
     "question": "What is the radial velocity method?",
     "answer": "It detects tiny star movements caused by the gravity of orbiting planets."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What is a rogue planet?",
-    "answer": "A rogue planet is a planet that does not orbit a star."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -221,11 +241,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What is the Kuiper Belt?",
-    "answer": "The Kuiper Belt is a region of icy bodies beyond Neptune."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "What is the difference between a planet and a moon?",
     "answer": "A planet orbits a star, while a moon orbits a planet."
   },
@@ -263,11 +278,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Which planet is farthest from the Sun?",
     "answer": "Neptune is the farthest known planet from the Sun."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What is the asteroid belt?",
-    "answer": "The asteroid belt is a region of rocky objects between Mars and Jupiter."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -363,11 +373,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Why is direct imaging of exoplanets challenging?",
     "answer": "Stars are much brighter than the planets orbiting them."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What is gravitational microlensing?",
-    "answer": "It detects planets using the bending of light caused by gravity."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -481,23 +486,13 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What is a brown dwarf?",
-    "answer": "A brown dwarf is an object larger than planets but too small to sustain normal starlight fusion."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "How are brown dwarfs different from planets?",
     "answer": "Brown dwarfs are more massive and can briefly fuse deuterium."
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What is the Roche limit?",
-    "answer": "The Roche limit is the distance where tidal forces can break apart an object."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "Why do some exoplanets orbit extremely close to their stars?",
-    "answer": "Orbital migration can move planets inward after formation."
+    "answer": "Migration and gravitational interactions may move them inward."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -533,11 +528,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Why do giant planets have many moons?",
     "answer": "Their strong gravity allows them to capture or retain more moons."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What is a planetary nebula?",
-    "answer": "A planetary nebula is an expanding shell of gas from a dying star."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -653,11 +643,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Why does Neptune emit more heat than it receives?",
     "answer": "Neptune still releases internal heat from its formation and interior."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What is the heliosphere?",
-    "answer": "The heliosphere is the bubble-like region influenced by the Sun's solar wind."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -882,7 +867,7 @@
   {
     "topic": "planets_and_exoplanets",
     "question": "Which planets are known to have auroras?",
-    "answer": "Earth, Jupiter, Saturn, Uranus, and Neptune all have auroras."
+    "answer": "Earth, Jupiter, Saturn, Uranus and Neptune have auroras. Patchy auroras have also been seen on Mars, even though it has no global magnetic field."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -1026,11 +1011,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "How do planets begin forming around young stars?",
-    "answer": "Dust and gas slowly stick together and grow through gravity."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "What would it feel like to stand on Jupiter?",
     "answer": "Jupiter has no solid surface to stand on."
   },
@@ -1091,11 +1071,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "Why are giant planets mostly made of gas?",
-    "answer": "They formed where light gases and ices were abundant."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "What would happen if Earth lost its atmosphere?",
     "answer": "Surface temperatures and radiation levels would become deadly."
   },
@@ -1108,11 +1083,6 @@
     "topic": "planets_and_exoplanets",
     "question": "How do planets get their colors?",
     "answer": "Atmospheric gases and surface materials affect reflected light."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had rings like Saturn?",
-    "answer": "Bright rings would dominate the sky and affect nighttime brightness."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -1137,7 +1107,7 @@
   {
     "topic": "planets_and_exoplanets",
     "question": "What would rain on Venus be like?",
-    "answer": "Venus has clouds containing sulfuric acid droplets."
+    "answer": "Venus has clouds of sulfuric acid droplets, but the acid rain evaporates in the extremely hot lower atmosphere before it can reach the surface."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -1321,11 +1291,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had two suns?",
-    "answer": "Seasons, temperatures, and orbital dynamics would become more complex."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "How can a planet be hotter than Mercury even when farther from the Sun?",
     "answer": "A thick atmosphere can trap heat extremely effectively."
   },
@@ -1377,7 +1342,7 @@
   {
     "topic": "planets_and_exoplanets",
     "question": "Why are planets closer to the Sun usually rocky?",
-    "answer": "Heat near the young Sun prevented light gases from condensing."
+    "answer": "Near the young Sun it was too hot for water and other ices to freeze, so only rock and metal could clump together. That made the inner planets small and rocky."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -1481,16 +1446,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had no Moon?",
-    "answer": "Tides and long-term planetary stability would change greatly."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "How do planets avoid colliding with each other constantly?",
-    "answer": "Stable orbital paths keep planets separated over long periods."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "Could there be planets with diamond-rich interiors?",
     "answer": "Some carbon-rich planets may contain diamond layers."
   },
@@ -1563,11 +1518,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Could life exist on a planet without sunlight?",
     "answer": "Some life forms might survive using chemical energy instead of sunlight."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "Why do planets closer to the Sun move faster?",
-    "answer": "Stronger gravity near the Sun increases orbital speed."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -1671,11 +1621,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had Jupiter's gravity?",
-    "answer": "Human movement and atmospheric conditions would become extreme."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "How can astronomers tell whether planets are rocky or gaseous?",
     "answer": "Density calculations reveal clues about planetary composition."
   },
@@ -1711,11 +1656,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had a much thicker atmosphere?",
-    "answer": "Pressure, climate, and temperatures would change greatly."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "How do scientists guess what alien weather might be like?",
     "answer": "They model atmospheres, temperatures, and planetary rotation."
   },
@@ -1723,11 +1663,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Could there be planets hidden between stars that are hard to detect?",
     "answer": "Many distant or faint planets may still remain undiscovered."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "Why do some exoplanets orbit extremely close to their stars?",
-    "answer": "Migration and gravitational interactions may move them inward."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -1941,11 +1876,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had Saturn's rings?",
-    "answer": "Large bright rings would dominate views of the sky."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "How can astronomers estimate the distance of exoplanets from their stars?",
     "answer": "Orbital timing helps determine planetary distances."
   },
@@ -2088,11 +2018,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Why are some exoplanets called lava worlds?",
     "answer": "Their surfaces may be hot enough to melt rock."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth had no seasons?",
-    "answer": "Climate patterns and ecosystems would change significantly."
   },
   {
     "topic": "planets_and_exoplanets",
@@ -2321,11 +2246,6 @@
   },
   {
     "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth orbited a pulsar?",
-    "answer": "Intense radiation would create an extremely hostile environment."
-  },
-  {
-    "topic": "planets_and_exoplanets",
     "question": "How do astronomers identify planets hidden in noisy telescope data?",
     "answer": "They search for repeated patterns and statistical signals."
   },
@@ -2438,11 +2358,6 @@
     "topic": "planets_and_exoplanets",
     "question": "Why are some planets surrounded by glowing halos of gas?",
     "answer": "Radiation can energize gases around planets and create glowing regions."
-  },
-  {
-    "topic": "planets_and_exoplanets",
-    "question": "What would happen if Earth rotated once every hour?",
-    "answer": "Extreme winds and major climate changes would likely occur."
   },
   {
     "topic": "planets_and_exoplanets",
