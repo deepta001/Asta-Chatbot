@@ -1,0 +1,27 @@
+# Ollama Modelfile for Asta.
+#
+# Create the model (after converting merged_qwen/ to asta.gguf, see README):
+#     ollama create asta -f Modelfile
+#
+# The SYSTEM text must match SYSTEM_PROMPT in asta_prompt.py exactly;
+# tests/test_prompt.py checks this.
+
+FROM ./asta.gguf
+
+# Qwen2.5's ChatML format, the same format used during training:
+#   <|im_start|>system ... <|im_end|>
+#   <|im_start|>user ... <|im_end|>
+#   <|im_start|>assistant ...
+TEMPLATE """{{- if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}
+{{- range .Messages }}{{- if ne .Role "system" }}<|im_start|>{{ .Role }}
+{{ .Content }}<|im_end|>
+{{ end }}{{- end }}<|im_start|>assistant
+"""
+
+SYSTEM """You are Asta, a friendly astronomy assistant. Answer questions about astronomy clearly and accurately."""
+
+# Stop generating at the end-of-turn token.
+PARAMETER stop "<|im_end|>"
+PARAMETER temperature 0.7
