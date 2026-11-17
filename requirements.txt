@@ -1,17 +1,22 @@
-# Packages imported by the scripts currently in this repository.
+# Packages for running Asta on your own computer: the chat UI, training on
+# a CPU, merging the adapter and the tests. These exact versions were tested
+# together on Windows with Python 3.12.
 #
-# Versions are NOT pinned yet: none of these packages were installed in the
-# local Python environment when this file was written, so the exact versions
-# used could not be read. Pinning is planned for the training phase.
+# Install the CPU build of PyTorch first (it is much smaller than the default):
+#     pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+#     pip install -r requirements.txt
 
 # Chat interface (chat_ui.py)
-gradio
-requests
+gradio==6.32.0
+requests==2.34.2
 
-# Model loading and adapter merging (qwen.py)
-torch
-transformers
-peft
+# Training and merging (train_qlora.py, qwen.py)
+torch==2.15.0
+transformers==5.23.0
+peft==0.21.3
+accelerate==1.16.0
 
-# Old flan-t5 training script (data/train.py)
-datasets
+# Tests
+pytest==9.2.0
+
+# Not included: data/train.py (the old flan-t5 experiment) also needs `datasets`.

@@ -11,8 +11,12 @@ env/
 # Model files: these are several GB, so they live outside Git
 trained_model/
 merged_qwen/
+results/
 *.gguf
 *.zip
+
+# llama.cpp checkout used for GGUF conversion
+llama.cpp/
 
 # Jupyter / Colab
 .ipynb_checkpoints/

@@ -1,0 +1,11 @@
+# Packages for train_qlora.py on a Google Colab GPU (torch is already
+# installed there).
+#
+# transformers, peft and accelerate are the versions tested with the CPU
+# training run. bitsandbytes (4-bit quantisation, GPU only) is the version
+# recorded in Asta-V.ipynb; the GPU combination has not been re-tested.
+
+transformers==5.23.0
+peft==0.21.3
+accelerate==1.16.0
+bitsandbytes==0.49.2
